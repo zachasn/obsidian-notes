@@ -1,0 +1,2 @@
+
+Ethics are important because computer scientist can create programs that have wide use case and it's important that you take the time to think about the ethical impliactions of your work before you cause unnessary harm.

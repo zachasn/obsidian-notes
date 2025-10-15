@@ -1,0 +1,39 @@
+## Robot Sensors
+- Devices that can sense and measure physical properties of the environment
+	- e.g., temperature, luminance, resistance to touch, weight, size, etc
+- Key phenomenon is transduction
+	- Transduction (engineering) is a process that converts one type of energy to another
+- Deliver low-level information about the environment the robot is working in
+	- Returns an *incomplete* description of the world
+- This information is noisy (imprecise)
+- Cannot be modeled completely:
+	- Reading = *f*(env), where *f* is the model of the sensor
+ - Finding the inverse:
+	 - *ill posed* problems (solution not uniquely defined)
+	 - collapsing of dimensionality leads to ambiguity
+- **Types of Sensors**
+	- Active versus Passive:
+		- *Active* → emit energy in environment, is more robust, less efficient, e.g. sonar, radar
+		- *Passive* → passively receive energy from environment, less intrusive but depends on environment. e.g. light for camera
+	- Contact versus Non-contact:  tiny sensor that prevent robot from running in obstacles
+	- Examples:
+		- Proprioceptive Sensors → monitor state of robot
+			- *IMU* (accels & gyros)
+			- *wheel encoders*
+			- *Doppler radar*
+		- Exteroceptive Sensors → monitor environment
+			- *Cameras (single, stereo, omni, FLIR, ...)*
+			- *Laser scanner*
+			- *Sonar*
+			- *Tactile*
+- **Sensor Characteristics**
+	All sensors are characterized by various properties that describe capabilities
+	- *Sensitivity* = change of output / change of input
+	- *Linearity* = consistency of output/input
+	- *Measurement/Dynamic range*: difference between min and max
+	- *Accuracy*: difference between measured & actual
+	- *Repeatability*: difference between repeated measures
+	- *Resolution*: smallest observable increment
+	- *Bandwidth*: result of high resolution or cycle time
+- **Sensor Problems**
+	- 
