@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "aa08470dd6a6100f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5188018c6a687595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cef7db1d7ca9337",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Csci4551-Lec9-Orientation.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Csci4551-Lec9-Orientation.excalidraw"
+            }
+          },
+          {
+            "id": "c195d784dda6b2e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csci/4551 - Intro to Robotics/Lecture 9 — Representations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 9 — Representations"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cad1902e73f5c279",
+    "type": "split",
+    "children": [
+      {
+        "id": "857e5fad0c7ca286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4150ae5ffdc09ac4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf6297760284bd1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7849786942b1ce44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.50247192382812
+  },
+  "right": {
+    "id": "fefd74b3ae0c06d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b3998ad72ff43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db7a95c86d77a80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Csci/4551 - Intro to Robotics/Lecture 9 — Representations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lecture 9 — Representations"
+            }
+          },
+          {
+            "id": "c6a33593d75b0351",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9c91e142ff59d414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16f51e2b44f6de05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1b7b2e7b59324e3e",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c195d784dda6b2e2",
+  "lastOpenFiles": [
+    "Excalidraw/Csci4551-Lec9-Orientation.excalidraw.md",
+    "Excalidraw/Graph_drawing.md",
+    "Excalidraw/Csci2033-Lec1-VectorOperations.excalidraw.md",
+    "Excalidraw/Csci2033-Lec1-GaussianElimination.excalidraw.md",
+    "Csci/4551 - Intro to Robotics/Lecture 9 — Representations.md",
+    "Stat/3021 - Intro to Probability & Statistics/Sample Space and Events.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 1 — Linear Systems.md",
+    "Csci/4551 - Intro to Robotics/Lecture 9 — Representations 1.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 1 — Linear Systems.md.tmp.47073.1760559774269",
+    "Csci/2033 - Computational Linear Algebra/Lecture 1 — Linear Systems.md.tmp.47073.1760559752695",
+    "Csci/4551 - Intro to Robotics/Lecture 7 — State Estimation.md",
+    "Csci/4551 - Intro to Robotics/Lecture 6 — Motion Planning II.md",
+    "Csci/4551 - Intro to Robotics/Lecture 5 — Motion Planning.md",
+    "CLAUDE.md",
+    "Excalidraw/position_ex.excalidraw.md",
+    "Excalidraw/Csci4551-Lec9-CoordinateFrames.excalidraw.md",
+    "Excalidraw/GVD_Explained.excalidraw.md",
+    "Csci/4551 - Intro to Robotics/Lecture 9 — Representations.md.tmp.30080.1760556838260",
+    "Excaladraw/Csci4551-Lec9-RotationMatrix.excalidraw.md",
+    "Excaladraw",
+    "Lecture 9 — Representations.pdf",
+    "Csci/2033 - Computational Linear Algebra/Lecture 2 — Matrices.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 9 — Determinants and the Inverse Matrix.md",
+    "Csci/4551 - Intro to Robotics/Homework 1.md",
+    "Csci/4551 - Intro to Robotics/imgs/fgi2_0.png",
+    "Csci/2033 - Computational Linear Algebra/Lecture 4 — General Vector Spaces.md",
+    "Csci/4551 - Intro to Robotics/imgs/data_passing.png",
+    "Csci/4551 - Intro to Robotics/imgs/GVD_ex.png",
+    "Csci/4551 - Intro to Robotics/imgs/Voro-diagram.png",
+    "Csci/4551 - Intro to Robotics/imgs/vgraph4.png",
+    "Csci/4551 - Intro to Robotics/imgs/vgraph3.png",
+    "Csci/4551 - Intro to Robotics/imgs/vgraph2.png",
+    "Csci/4551 - Intro to Robotics/imgs/vgraph1.png",
+    "Excalidraw/mathematical-symbols.excalidrawlib",
+    "Excalidraw/math-teacher-library 1.excalidrawlib",
+    "Excalidraw/math-teacher-library.excalidrawlib",
+    "Excalidraw/Drawing 2025-10-11 17.01.41.excalidraw.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 10 — Eigenvalues and Eigenvectors.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 3 — Euclidean Space.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 5 — General Vector Spaces II.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 6 — Inner Product Spaces.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 7 — Linear Transformations.md",
+    "Csci/2033 - Computational Linear Algebra/Lecture 7 — Linear Transformations.md.tmp.590.1760488684530",
+    "Csci/2033 - Computational Linear Algebra/Lecture 6 — Inner Product Spaces.md.tmp.590.1760488625323",
+    "Excalidraw/Untitled.canvas",
+    "Csci/4551 - Intro to Robotics/imgs/fgi2.png",
+    "Csci/4061 - Intro to OS/imgs/vm.png"
+  ]
+}

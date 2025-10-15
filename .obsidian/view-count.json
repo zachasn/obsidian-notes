@@ -1,0 +1,6197 @@
+{
+  "items": [
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 1 — Introduction.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1758933979704
+        },
+        {
+          "timestampMillis": 1758937345496
+        },
+        {
+          "timestampMillis": 1758942853779
+        },
+        {
+          "timestampMillis": 1758943375645
+        },
+        {
+          "timestampMillis": 1760483565900
+        },
+        {
+          "timestampMillis": 1760483566616
+        },
+        {
+          "timestampMillis": 1760486108676
+        },
+        {
+          "timestampMillis": 1760486123192
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/Processes & Programs.md",
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 130,
+      "openLogs": [
+        {
+          "timestampMillis": 1758937599235
+        },
+        {
+          "timestampMillis": 1758937601165
+        },
+        {
+          "timestampMillis": 1758937608792
+        },
+        {
+          "timestampMillis": 1758937662680
+        },
+        {
+          "timestampMillis": 1758938077324
+        },
+        {
+          "timestampMillis": 1758938096196
+        },
+        {
+          "timestampMillis": 1758938188031
+        },
+        {
+          "timestampMillis": 1758938218375
+        },
+        {
+          "timestampMillis": 1758938302860
+        },
+        {
+          "timestampMillis": 1758938360779
+        },
+        {
+          "timestampMillis": 1758940013614
+        },
+        {
+          "timestampMillis": 1758942851023
+        },
+        {
+          "timestampMillis": 1758943322667
+        },
+        {
+          "timestampMillis": 1758943457618
+        },
+        {
+          "timestampMillis": 1758943600814
+        },
+        {
+          "timestampMillis": 1758946431641
+        },
+        {
+          "timestampMillis": 1758947422026
+        },
+        {
+          "timestampMillis": 1758947467825
+        },
+        {
+          "timestampMillis": 1758947469932
+        },
+        {
+          "timestampMillis": 1758947928665
+        },
+        {
+          "timestampMillis": 1759178610835
+        },
+        {
+          "timestampMillis": 1759179697708
+        },
+        {
+          "timestampMillis": 1759259363747
+        },
+        {
+          "timestampMillis": 1759259439549
+        },
+        {
+          "timestampMillis": 1759259493343
+        },
+        {
+          "timestampMillis": 1759259591529
+        },
+        {
+          "timestampMillis": 1759259596208
+        },
+        {
+          "timestampMillis": 1759259715807
+        },
+        {
+          "timestampMillis": 1759259761275
+        },
+        {
+          "timestampMillis": 1759260319311
+        },
+        {
+          "timestampMillis": 1759260515154
+        },
+        {
+          "timestampMillis": 1759261005676
+        },
+        {
+          "timestampMillis": 1759261023917
+        },
+        {
+          "timestampMillis": 1759261047213
+        },
+        {
+          "timestampMillis": 1759261076263
+        },
+        {
+          "timestampMillis": 1759261100982
+        },
+        {
+          "timestampMillis": 1759261137487
+        },
+        {
+          "timestampMillis": 1759261348692
+        },
+        {
+          "timestampMillis": 1759261482961
+        },
+        {
+          "timestampMillis": 1759261510228
+        },
+        {
+          "timestampMillis": 1759261736552
+        },
+        {
+          "timestampMillis": 1759261999687
+        },
+        {
+          "timestampMillis": 1759262339607
+        },
+        {
+          "timestampMillis": 1759262505930
+        },
+        {
+          "timestampMillis": 1759262530862
+        },
+        {
+          "timestampMillis": 1759262628832
+        },
+        {
+          "timestampMillis": 1759262640100
+        },
+        {
+          "timestampMillis": 1759262650548
+        },
+        {
+          "timestampMillis": 1759262888494
+        },
+        {
+          "timestampMillis": 1759262907243
+        },
+        {
+          "timestampMillis": 1759262936157
+        },
+        {
+          "timestampMillis": 1759263668665
+        },
+        {
+          "timestampMillis": 1759264364099
+        },
+        {
+          "timestampMillis": 1759264417219
+        },
+        {
+          "timestampMillis": 1759264461144
+        },
+        {
+          "timestampMillis": 1759264723173
+        },
+        {
+          "timestampMillis": 1759264779974
+        },
+        {
+          "timestampMillis": 1759264864455
+        },
+        {
+          "timestampMillis": 1759264885461
+        },
+        {
+          "timestampMillis": 1759264896741
+        },
+        {
+          "timestampMillis": 1759264919126
+        },
+        {
+          "timestampMillis": 1759264989954
+        },
+        {
+          "timestampMillis": 1759266017603
+        },
+        {
+          "timestampMillis": 1759267761605
+        },
+        {
+          "timestampMillis": 1759277602670
+        },
+        {
+          "timestampMillis": 1759277608228
+        },
+        {
+          "timestampMillis": 1759280369624
+        },
+        {
+          "timestampMillis": 1759280446008
+        },
+        {
+          "timestampMillis": 1759280462407
+        },
+        {
+          "timestampMillis": 1759280520575
+        },
+        {
+          "timestampMillis": 1759280780490
+        },
+        {
+          "timestampMillis": 1759280784508
+        },
+        {
+          "timestampMillis": 1759280787826
+        },
+        {
+          "timestampMillis": 1759281546826
+        },
+        {
+          "timestampMillis": 1759281919853
+        },
+        {
+          "timestampMillis": 1759282147060
+        },
+        {
+          "timestampMillis": 1759282987416
+        },
+        {
+          "timestampMillis": 1759282996853
+        },
+        {
+          "timestampMillis": 1759283062279
+        },
+        {
+          "timestampMillis": 1759283072035
+        },
+        {
+          "timestampMillis": 1759283079055
+        },
+        {
+          "timestampMillis": 1759283086625
+        },
+        {
+          "timestampMillis": 1759283210178
+        },
+        {
+          "timestampMillis": 1759283230311
+        },
+        {
+          "timestampMillis": 1759283244139
+        },
+        {
+          "timestampMillis": 1759283517080
+        },
+        {
+          "timestampMillis": 1759283522827
+        },
+        {
+          "timestampMillis": 1759333535273
+        },
+        {
+          "timestampMillis": 1759333599134
+        },
+        {
+          "timestampMillis": 1759333830221
+        },
+        {
+          "timestampMillis": 1759334263753
+        },
+        {
+          "timestampMillis": 1759335828586
+        },
+        {
+          "timestampMillis": 1759338646765
+        },
+        {
+          "timestampMillis": 1759340386641
+        },
+        {
+          "timestampMillis": 1759340551349
+        },
+        {
+          "timestampMillis": 1759340680650
+        },
+        {
+          "timestampMillis": 1759341975180
+        },
+        {
+          "timestampMillis": 1759341983478
+        },
+        {
+          "timestampMillis": 1759347243572
+        },
+        {
+          "timestampMillis": 1759422383057
+        },
+        {
+          "timestampMillis": 1759423263340
+        },
+        {
+          "timestampMillis": 1759423280603
+        },
+        {
+          "timestampMillis": 1759423290786
+        },
+        {
+          "timestampMillis": 1759423872597
+        },
+        {
+          "timestampMillis": 1759423896768
+        },
+        {
+          "timestampMillis": 1759423908597
+        },
+        {
+          "timestampMillis": 1759427993366
+        },
+        {
+          "timestampMillis": 1759428230074
+        },
+        {
+          "timestampMillis": 1759428301870
+        },
+        {
+          "timestampMillis": 1759432344229
+        },
+        {
+          "timestampMillis": 1759434330894
+        },
+        {
+          "timestampMillis": 1759513286409
+        },
+        {
+          "timestampMillis": 1759522281497
+        },
+        {
+          "timestampMillis": 1759523072128
+        },
+        {
+          "timestampMillis": 1759769883770
+        },
+        {
+          "timestampMillis": 1759770094702
+        },
+        {
+          "timestampMillis": 1759770714562
+        },
+        {
+          "timestampMillis": 1759770756141
+        },
+        {
+          "timestampMillis": 1759772334521
+        },
+        {
+          "timestampMillis": 1759778225287
+        },
+        {
+          "timestampMillis": 1759778228434
+        },
+        {
+          "timestampMillis": 1759778250801
+        },
+        {
+          "timestampMillis": 1759781121218
+        },
+        {
+          "timestampMillis": 1759781367699
+        },
+        {
+          "timestampMillis": 1759781614488
+        },
+        {
+          "timestampMillis": 1759783076981
+        },
+        {
+          "timestampMillis": 1760374027901
+        },
+        {
+          "timestampMillis": 1760374368993
+        },
+        {
+          "timestampMillis": 1760377340195
+        },
+        {
+          "timestampMillis": 1760379284172
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/C Review.md",
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 68,
+      "openLogs": [
+        {
+          "timestampMillis": 1758938048890
+        },
+        {
+          "timestampMillis": 1758938387975
+        },
+        {
+          "timestampMillis": 1758938396398
+        },
+        {
+          "timestampMillis": 1758938407228
+        },
+        {
+          "timestampMillis": 1758938419631
+        },
+        {
+          "timestampMillis": 1758938455395
+        },
+        {
+          "timestampMillis": 1758940011539
+        },
+        {
+          "timestampMillis": 1759022587978
+        },
+        {
+          "timestampMillis": 1759178601321
+        },
+        {
+          "timestampMillis": 1759179680315
+        },
+        {
+          "timestampMillis": 1759192429176
+        },
+        {
+          "timestampMillis": 1759259296923
+        },
+        {
+          "timestampMillis": 1759259360241
+        },
+        {
+          "timestampMillis": 1759259367026
+        },
+        {
+          "timestampMillis": 1759259700407
+        },
+        {
+          "timestampMillis": 1759259759791
+        },
+        {
+          "timestampMillis": 1759259783206
+        },
+        {
+          "timestampMillis": 1759260317596
+        },
+        {
+          "timestampMillis": 1759260525179
+        },
+        {
+          "timestampMillis": 1759261018014
+        },
+        {
+          "timestampMillis": 1759261084783
+        },
+        {
+          "timestampMillis": 1759262208126
+        },
+        {
+          "timestampMillis": 1759262325696
+        },
+        {
+          "timestampMillis": 1759262463866
+        },
+        {
+          "timestampMillis": 1759262532131
+        },
+        {
+          "timestampMillis": 1759262641204
+        },
+        {
+          "timestampMillis": 1759262825876
+        },
+        {
+          "timestampMillis": 1759262891938
+        },
+        {
+          "timestampMillis": 1759262940439
+        },
+        {
+          "timestampMillis": 1759263018940
+        },
+        {
+          "timestampMillis": 1759263044309
+        },
+        {
+          "timestampMillis": 1759263122410
+        },
+        {
+          "timestampMillis": 1759263206461
+        },
+        {
+          "timestampMillis": 1759263219861
+        },
+        {
+          "timestampMillis": 1759263279014
+        },
+        {
+          "timestampMillis": 1759263676148
+        },
+        {
+          "timestampMillis": 1759264382345
+        },
+        {
+          "timestampMillis": 1759277565857
+        },
+        {
+          "timestampMillis": 1759280386019
+        },
+        {
+          "timestampMillis": 1759335709695
+        },
+        {
+          "timestampMillis": 1759335860823
+        },
+        {
+          "timestampMillis": 1759336094277
+        },
+        {
+          "timestampMillis": 1759338627503
+        },
+        {
+          "timestampMillis": 1759340458185
+        },
+        {
+          "timestampMillis": 1759341980613
+        },
+        {
+          "timestampMillis": 1759419449790
+        },
+        {
+          "timestampMillis": 1759419475668
+        },
+        {
+          "timestampMillis": 1759421807629
+        },
+        {
+          "timestampMillis": 1759421816478
+        },
+        {
+          "timestampMillis": 1759422073089
+        },
+        {
+          "timestampMillis": 1759422224387
+        },
+        {
+          "timestampMillis": 1759422565885
+        },
+        {
+          "timestampMillis": 1759423262638
+        },
+        {
+          "timestampMillis": 1759423278084
+        },
+        {
+          "timestampMillis": 1759423906014
+        },
+        {
+          "timestampMillis": 1759424332155
+        },
+        {
+          "timestampMillis": 1759425666668
+        },
+        {
+          "timestampMillis": 1759429498016
+        },
+        {
+          "timestampMillis": 1759523069975
+        },
+        {
+          "timestampMillis": 1759769870896
+        },
+        {
+          "timestampMillis": 1759770096291
+        },
+        {
+          "timestampMillis": 1759770107130
+        },
+        {
+          "timestampMillis": 1759770158821
+        },
+        {
+          "timestampMillis": 1759770474649
+        },
+        {
+          "timestampMillis": 1759770476885
+        },
+        {
+          "timestampMillis": 1759770479912
+        },
+        {
+          "timestampMillis": 1760482181841
+        },
+        {
+          "timestampMillis": 1760482183699
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 5 — Motion Planning.md",
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 103,
+      "openLogs": [
+        {
+          "timestampMillis": 1758938333527
+        },
+        {
+          "timestampMillis": 1758938398641
+        },
+        {
+          "timestampMillis": 1758940023788
+        },
+        {
+          "timestampMillis": 1758940049539
+        },
+        {
+          "timestampMillis": 1758940052232
+        },
+        {
+          "timestampMillis": 1758940060489
+        },
+        {
+          "timestampMillis": 1758942928206
+        },
+        {
+          "timestampMillis": 1758942937531
+        },
+        {
+          "timestampMillis": 1758942942406
+        },
+        {
+          "timestampMillis": 1758943372931
+        },
+        {
+          "timestampMillis": 1758943377512
+        },
+        {
+          "timestampMillis": 1758943411029
+        },
+        {
+          "timestampMillis": 1758943461388
+        },
+        {
+          "timestampMillis": 1758947941548
+        },
+        {
+          "timestampMillis": 1758947943253
+        },
+        {
+          "timestampMillis": 1759019175940
+        },
+        {
+          "timestampMillis": 1759019368799
+        },
+        {
+          "timestampMillis": 1759019970599
+        },
+        {
+          "timestampMillis": 1759020038354
+        },
+        {
+          "timestampMillis": 1759020058207
+        },
+        {
+          "timestampMillis": 1759020089094
+        },
+        {
+          "timestampMillis": 1759020461423
+        },
+        {
+          "timestampMillis": 1759022514964
+        },
+        {
+          "timestampMillis": 1759022540706
+        },
+        {
+          "timestampMillis": 1759022632051
+        },
+        {
+          "timestampMillis": 1759082134798
+        },
+        {
+          "timestampMillis": 1759082144635
+        },
+        {
+          "timestampMillis": 1759341990985
+        },
+        {
+          "timestampMillis": 1759342114767
+        },
+        {
+          "timestampMillis": 1759342203999
+        },
+        {
+          "timestampMillis": 1759342214533
+        },
+        {
+          "timestampMillis": 1759343811836
+        },
+        {
+          "timestampMillis": 1759344619298
+        },
+        {
+          "timestampMillis": 1759346002317
+        },
+        {
+          "timestampMillis": 1759346485130
+        },
+        {
+          "timestampMillis": 1759346579670
+        },
+        {
+          "timestampMillis": 1759347287388
+        },
+        {
+          "timestampMillis": 1759347385759
+        },
+        {
+          "timestampMillis": 1759347480419
+        },
+        {
+          "timestampMillis": 1759347482945
+        },
+        {
+          "timestampMillis": 1759347951155
+        },
+        {
+          "timestampMillis": 1759591338109
+        },
+        {
+          "timestampMillis": 1759591355721
+        },
+        {
+          "timestampMillis": 1759591382132
+        },
+        {
+          "timestampMillis": 1759591999238
+        },
+        {
+          "timestampMillis": 1759592181264
+        },
+        {
+          "timestampMillis": 1759592186669
+        },
+        {
+          "timestampMillis": 1759592238977
+        },
+        {
+          "timestampMillis": 1759592760805
+        },
+        {
+          "timestampMillis": 1759593299483
+        },
+        {
+          "timestampMillis": 1759594302507
+        },
+        {
+          "timestampMillis": 1759594367674
+        },
+        {
+          "timestampMillis": 1759594377344
+        },
+        {
+          "timestampMillis": 1759594428961
+        },
+        {
+          "timestampMillis": 1759594643013
+        },
+        {
+          "timestampMillis": 1759594765751
+        },
+        {
+          "timestampMillis": 1759594890888
+        },
+        {
+          "timestampMillis": 1759596956636
+        },
+        {
+          "timestampMillis": 1759597045197
+        },
+        {
+          "timestampMillis": 1759597283174
+        },
+        {
+          "timestampMillis": 1759597584690
+        },
+        {
+          "timestampMillis": 1759764066257
+        },
+        {
+          "timestampMillis": 1759941677586
+        },
+        {
+          "timestampMillis": 1759943951209
+        },
+        {
+          "timestampMillis": 1759943968499
+        },
+        {
+          "timestampMillis": 1759946181027
+        },
+        {
+          "timestampMillis": 1760215795732
+        },
+        {
+          "timestampMillis": 1760216069341
+        },
+        {
+          "timestampMillis": 1760216397954
+        },
+        {
+          "timestampMillis": 1760216425683
+        },
+        {
+          "timestampMillis": 1760216438728
+        },
+        {
+          "timestampMillis": 1760216463597
+        },
+        {
+          "timestampMillis": 1760216593415
+        },
+        {
+          "timestampMillis": 1760216612225
+        },
+        {
+          "timestampMillis": 1760216618010
+        },
+        {
+          "timestampMillis": 1760216740160
+        },
+        {
+          "timestampMillis": 1760216771559
+        },
+        {
+          "timestampMillis": 1760216983794
+        },
+        {
+          "timestampMillis": 1760216995638
+        },
+        {
+          "timestampMillis": 1760216998738
+        },
+        {
+          "timestampMillis": 1760217015735
+        },
+        {
+          "timestampMillis": 1760217033506
+        },
+        {
+          "timestampMillis": 1760217084708
+        },
+        {
+          "timestampMillis": 1760217228752
+        },
+        {
+          "timestampMillis": 1760217693113
+        },
+        {
+          "timestampMillis": 1760217718312
+        },
+        {
+          "timestampMillis": 1760217812967
+        },
+        {
+          "timestampMillis": 1760217843462
+        },
+        {
+          "timestampMillis": 1760218034746
+        },
+        {
+          "timestampMillis": 1760218458856
+        },
+        {
+          "timestampMillis": 1760218490588
+        },
+        {
+          "timestampMillis": 1760218520136
+        },
+        {
+          "timestampMillis": 1760218594891
+        },
+        {
+          "timestampMillis": 1760219661854
+        },
+        {
+          "timestampMillis": 1760219725856
+        },
+        {
+          "timestampMillis": 1760219753711
+        },
+        {
+          "timestampMillis": 1760219905614
+        },
+        {
+          "timestampMillis": 1760220165778
+        },
+        {
+          "timestampMillis": 1760220188042
+        },
+        {
+          "timestampMillis": 1760373913260
+        },
+        {
+          "timestampMillis": 1760559206472
+        },
+        {
+          "timestampMillis": 1760559207205
+        },
+        {
+          "timestampMillis": 1760559207503
+        }
+      ]
+    },
+    {
+      "path": "Csci/4041 - Algorithms & Data Structures/Linked Lists.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1758938433403
+        }
+      ]
+    },
+    {
+      "path": "Csci/3921W - Issues in Computing/Consequentialism ‒ 9.8.25.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1758938443956
+        },
+        {
+          "timestampMillis": 1758989506060
+        },
+        {
+          "timestampMillis": 1759936550174
+        },
+        {
+          "timestampMillis": 1760542535975
+        },
+        {
+          "timestampMillis": 1760542536759
+        },
+        {
+          "timestampMillis": 1760542552200
+        }
+      ]
+    },
+    {
+      "path": "Csci/3921W - Issues in Computing/Deontology — 9.10.25.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1758938445374
+        },
+        {
+          "timestampMillis": 1758938452174
+        },
+        {
+          "timestampMillis": 1758989522890
+        },
+        {
+          "timestampMillis": 1759011757217
+        },
+        {
+          "timestampMillis": 1759197121078
+        },
+        {
+          "timestampMillis": 1759200967536
+        },
+        {
+          "timestampMillis": 1759936005012
+        },
+        {
+          "timestampMillis": 1759936561993
+        },
+        {
+          "timestampMillis": 1759938984748
+        },
+        {
+          "timestampMillis": 1760468503456
+        },
+        {
+          "timestampMillis": 1760468504704
+        },
+        {
+          "timestampMillis": 1760542546984
+        },
+        {
+          "timestampMillis": 1760542547622
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 3,4 — ROS 2.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 35,
+      "openLogs": [
+        {
+          "timestampMillis": 1758942929160
+        },
+        {
+          "timestampMillis": 1758942944139
+        },
+        {
+          "timestampMillis": 1758943031411
+        },
+        {
+          "timestampMillis": 1758943095411
+        },
+        {
+          "timestampMillis": 1758943374288
+        },
+        {
+          "timestampMillis": 1758943597027
+        },
+        {
+          "timestampMillis": 1758943623708
+        },
+        {
+          "timestampMillis": 1758946430531
+        },
+        {
+          "timestampMillis": 1758946432419
+        },
+        {
+          "timestampMillis": 1758947422903
+        },
+        {
+          "timestampMillis": 1758947469319
+        },
+        {
+          "timestampMillis": 1758947470736
+        },
+        {
+          "timestampMillis": 1758947794454
+        },
+        {
+          "timestampMillis": 1758947934887
+        },
+        {
+          "timestampMillis": 1759020034690
+        },
+        {
+          "timestampMillis": 1759020057251
+        },
+        {
+          "timestampMillis": 1759020085634
+        },
+        {
+          "timestampMillis": 1759020090480
+        },
+        {
+          "timestampMillis": 1759020459680
+        },
+        {
+          "timestampMillis": 1759022592591
+        },
+        {
+          "timestampMillis": 1759342110376
+        },
+        {
+          "timestampMillis": 1759342202250
+        },
+        {
+          "timestampMillis": 1759342208779
+        },
+        {
+          "timestampMillis": 1759343809710
+        },
+        {
+          "timestampMillis": 1759346483776
+        },
+        {
+          "timestampMillis": 1759346577623
+        },
+        {
+          "timestampMillis": 1759347479683
+        },
+        {
+          "timestampMillis": 1759347482418
+        },
+        {
+          "timestampMillis": 1759419447649
+        },
+        {
+          "timestampMillis": 1760028424803
+        },
+        {
+          "timestampMillis": 1760028993464
+        },
+        {
+          "timestampMillis": 1760483570012
+        },
+        {
+          "timestampMillis": 1760483570700
+        },
+        {
+          "timestampMillis": 1760484176182
+        },
+        {
+          "timestampMillis": 1760484191807
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Sensors & Locomotion.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1758942934010
+        },
+        {
+          "timestampMillis": 1758943366895
+        },
+        {
+          "timestampMillis": 1758943376825
+        },
+        {
+          "timestampMillis": 1758943460561
+        },
+        {
+          "timestampMillis": 1758947940192
+        },
+        {
+          "timestampMillis": 1759020088417
+        },
+        {
+          "timestampMillis": 1759022629241
+        },
+        {
+          "timestampMillis": 1759591337156
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 2 — Locomotion.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1758943363519
+        },
+        {
+          "timestampMillis": 1758943374995
+        },
+        {
+          "timestampMillis": 1760483567947
+        },
+        {
+          "timestampMillis": 1760483568856
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Social Contract.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1758989466340
+        },
+        {
+          "timestampMillis": 1758989529487
+        },
+        {
+          "timestampMillis": 1758989561785
+        },
+        {
+          "timestampMillis": 1759082919541
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Utilitarianism.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1758989498571
+        },
+        {
+          "timestampMillis": 1759011760672
+        },
+        {
+          "timestampMillis": 1759198183123
+        },
+        {
+          "timestampMillis": 1759246247084
+        },
+        {
+          "timestampMillis": 1759872117640
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Week 3 Reading Notes.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1758989533552
+        },
+        {
+          "timestampMillis": 1759246766397
+        },
+        {
+          "timestampMillis": 1759247472839
+        },
+        {
+          "timestampMillis": 1759250908974
+        },
+        {
+          "timestampMillis": 1759873220791
+        },
+        {
+          "timestampMillis": 1759873286214
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Week 2 Reading Notes.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1758989559921
+        },
+        {
+          "timestampMillis": 1759082154949
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Virtue-based.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1759011732216
+        },
+        {
+          "timestampMillis": 1759011781732
+        },
+        {
+          "timestampMillis": 1759082153643
+        },
+        {
+          "timestampMillis": 1759082157592
+        },
+        {
+          "timestampMillis": 1759082162295
+        },
+        {
+          "timestampMillis": 1759082167813
+        },
+        {
+          "timestampMillis": 1759082171074
+        },
+        {
+          "timestampMillis": 1759861720953
+        }
+      ]
+    },
+    {
+      "path": "Csci/3921W - Issues in Computing/Lecture 3 Virtue Ethics — 9.15.25.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1759011752191
+        },
+        {
+          "timestampMillis": 1759011754565
+        },
+        {
+          "timestampMillis": 1759011778163
+        },
+        {
+          "timestampMillis": 1759197118869
+        },
+        {
+          "timestampMillis": 1759936552886
+        },
+        {
+          "timestampMillis": 1760542474648
+        },
+        {
+          "timestampMillis": 1760542475343
+        },
+        {
+          "timestampMillis": 1760542484019
+        },
+        {
+          "timestampMillis": 1760542526995
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Human Rights, Justice, Fairness.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1759082149330
+        },
+        {
+          "timestampMillis": 1759246763172
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Supporting Analysis.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 45,
+      "openLogs": [
+        {
+          "timestampMillis": 1759082184519
+        },
+        {
+          "timestampMillis": 1759082918491
+        },
+        {
+          "timestampMillis": 1759082920327
+        },
+        {
+          "timestampMillis": 1759082959884
+        },
+        {
+          "timestampMillis": 1759082972151
+        },
+        {
+          "timestampMillis": 1759082983002
+        },
+        {
+          "timestampMillis": 1759083002251
+        },
+        {
+          "timestampMillis": 1759083037155
+        },
+        {
+          "timestampMillis": 1759083358339
+        },
+        {
+          "timestampMillis": 1759083829113
+        },
+        {
+          "timestampMillis": 1759084048641
+        },
+        {
+          "timestampMillis": 1759084051427
+        },
+        {
+          "timestampMillis": 1759084270976
+        },
+        {
+          "timestampMillis": 1759084827733
+        },
+        {
+          "timestampMillis": 1759164214193
+        },
+        {
+          "timestampMillis": 1759171876661
+        },
+        {
+          "timestampMillis": 1759246254064
+        },
+        {
+          "timestampMillis": 1759246259218
+        },
+        {
+          "timestampMillis": 1759249866572
+        },
+        {
+          "timestampMillis": 1759249876856
+        },
+        {
+          "timestampMillis": 1759249906350
+        },
+        {
+          "timestampMillis": 1759249942376
+        },
+        {
+          "timestampMillis": 1759249978014
+        },
+        {
+          "timestampMillis": 1759250076841
+        },
+        {
+          "timestampMillis": 1759250092828
+        },
+        {
+          "timestampMillis": 1759250130995
+        },
+        {
+          "timestampMillis": 1759250154831
+        },
+        {
+          "timestampMillis": 1759250240580
+        },
+        {
+          "timestampMillis": 1759250254062
+        },
+        {
+          "timestampMillis": 1759250902897
+        },
+        {
+          "timestampMillis": 1759250945371
+        },
+        {
+          "timestampMillis": 1759251114038
+        },
+        {
+          "timestampMillis": 1759251496358
+        },
+        {
+          "timestampMillis": 1759252036371
+        },
+        {
+          "timestampMillis": 1759252040101
+        },
+        {
+          "timestampMillis": 1759252701784
+        },
+        {
+          "timestampMillis": 1759252707411
+        },
+        {
+          "timestampMillis": 1759255619943
+        },
+        {
+          "timestampMillis": 1759255670935
+        },
+        {
+          "timestampMillis": 1759255953215
+        },
+        {
+          "timestampMillis": 1759255967770
+        },
+        {
+          "timestampMillis": 1759256236782
+        },
+        {
+          "timestampMillis": 1759256467146
+        },
+        {
+          "timestampMillis": 1759259143346
+        },
+        {
+          "timestampMillis": 1759259150109
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Opposing Analysis.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 35,
+      "openLogs": [
+        {
+          "timestampMillis": 1759082927005
+        },
+        {
+          "timestampMillis": 1759082962528
+        },
+        {
+          "timestampMillis": 1759082979427
+        },
+        {
+          "timestampMillis": 1759082992775
+        },
+        {
+          "timestampMillis": 1759083006359
+        },
+        {
+          "timestampMillis": 1759083045098
+        },
+        {
+          "timestampMillis": 1759083363530
+        },
+        {
+          "timestampMillis": 1759083831200
+        },
+        {
+          "timestampMillis": 1759084050636
+        },
+        {
+          "timestampMillis": 1759084061750
+        },
+        {
+          "timestampMillis": 1759084280067
+        },
+        {
+          "timestampMillis": 1759084814678
+        },
+        {
+          "timestampMillis": 1759084840112
+        },
+        {
+          "timestampMillis": 1759085825387
+        },
+        {
+          "timestampMillis": 1759159854578
+        },
+        {
+          "timestampMillis": 1759246257100
+        },
+        {
+          "timestampMillis": 1759247474056
+        },
+        {
+          "timestampMillis": 1759249871977
+        },
+        {
+          "timestampMillis": 1759249895331
+        },
+        {
+          "timestampMillis": 1759249937206
+        },
+        {
+          "timestampMillis": 1759249967152
+        },
+        {
+          "timestampMillis": 1759250014754
+        },
+        {
+          "timestampMillis": 1759250086672
+        },
+        {
+          "timestampMillis": 1759250128731
+        },
+        {
+          "timestampMillis": 1759250152666
+        },
+        {
+          "timestampMillis": 1759250236547
+        },
+        {
+          "timestampMillis": 1759250252147
+        },
+        {
+          "timestampMillis": 1759250303355
+        },
+        {
+          "timestampMillis": 1759250911200
+        },
+        {
+          "timestampMillis": 1759251578107
+        },
+        {
+          "timestampMillis": 1759255586513
+        },
+        {
+          "timestampMillis": 1759255640572
+        },
+        {
+          "timestampMillis": 1759255954674
+        },
+        {
+          "timestampMillis": 1759256483187
+        },
+        {
+          "timestampMillis": 1759259147953
+        }
+      ]
+    },
+    {
+      "path": "Csci/3921W - Issues in Computing/readings/human_life.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1759172632220
+        },
+        {
+          "timestampMillis": 1759172632431
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/In Class Writing 2.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1759246762181
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Post Analysis Wirting.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 14,
+      "openLogs": [
+        {
+          "timestampMillis": 1759250378340
+        },
+        {
+          "timestampMillis": 1759250946663
+        },
+        {
+          "timestampMillis": 1759251114665
+        },
+        {
+          "timestampMillis": 1759251581019
+        },
+        {
+          "timestampMillis": 1759252036929
+        },
+        {
+          "timestampMillis": 1759252044751
+        },
+        {
+          "timestampMillis": 1759252702756
+        },
+        {
+          "timestampMillis": 1759252704333
+        },
+        {
+          "timestampMillis": 1759252712286
+        },
+        {
+          "timestampMillis": 1759255627832
+        },
+        {
+          "timestampMillis": 1759255672246
+        },
+        {
+          "timestampMillis": 1759255971500
+        },
+        {
+          "timestampMillis": 1759256290955
+        },
+        {
+          "timestampMillis": 1759256488415
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/Low-Level IO.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 111,
+      "openLogs": [
+        {
+          "timestampMillis": 1759280412565
+        },
+        {
+          "timestampMillis": 1759280450920
+        },
+        {
+          "timestampMillis": 1759280465961
+        },
+        {
+          "timestampMillis": 1759280508313
+        },
+        {
+          "timestampMillis": 1759280516216
+        },
+        {
+          "timestampMillis": 1759280522497
+        },
+        {
+          "timestampMillis": 1759280707667
+        },
+        {
+          "timestampMillis": 1759280720385
+        },
+        {
+          "timestampMillis": 1759280744422
+        },
+        {
+          "timestampMillis": 1759280781851
+        },
+        {
+          "timestampMillis": 1759280786853
+        },
+        {
+          "timestampMillis": 1759280791946
+        },
+        {
+          "timestampMillis": 1759280804815
+        },
+        {
+          "timestampMillis": 1759280816118
+        },
+        {
+          "timestampMillis": 1759280957285
+        },
+        {
+          "timestampMillis": 1759281041544
+        },
+        {
+          "timestampMillis": 1759281255524
+        },
+        {
+          "timestampMillis": 1759281259368
+        },
+        {
+          "timestampMillis": 1759281288601
+        },
+        {
+          "timestampMillis": 1759281305070
+        },
+        {
+          "timestampMillis": 1759281548759
+        },
+        {
+          "timestampMillis": 1759281780076
+        },
+        {
+          "timestampMillis": 1759281930003
+        },
+        {
+          "timestampMillis": 1759281962369
+        },
+        {
+          "timestampMillis": 1759281978420
+        },
+        {
+          "timestampMillis": 1759282065351
+        },
+        {
+          "timestampMillis": 1759282077691
+        },
+        {
+          "timestampMillis": 1759282101239
+        },
+        {
+          "timestampMillis": 1759282111521
+        },
+        {
+          "timestampMillis": 1759282149046
+        },
+        {
+          "timestampMillis": 1759282159441
+        },
+        {
+          "timestampMillis": 1759282985377
+        },
+        {
+          "timestampMillis": 1759282989891
+        },
+        {
+          "timestampMillis": 1759282992308
+        },
+        {
+          "timestampMillis": 1759282994763
+        },
+        {
+          "timestampMillis": 1759282996080
+        },
+        {
+          "timestampMillis": 1759283004774
+        },
+        {
+          "timestampMillis": 1759283064855
+        },
+        {
+          "timestampMillis": 1759283075174
+        },
+        {
+          "timestampMillis": 1759283080254
+        },
+        {
+          "timestampMillis": 1759283088471
+        },
+        {
+          "timestampMillis": 1759283211219
+        },
+        {
+          "timestampMillis": 1759283231554
+        },
+        {
+          "timestampMillis": 1759283245521
+        },
+        {
+          "timestampMillis": 1759283519050
+        },
+        {
+          "timestampMillis": 1759283524135
+        },
+        {
+          "timestampMillis": 1759333544304
+        },
+        {
+          "timestampMillis": 1759333602871
+        },
+        {
+          "timestampMillis": 1759333838824
+        },
+        {
+          "timestampMillis": 1759334275747
+        },
+        {
+          "timestampMillis": 1759335742834
+        },
+        {
+          "timestampMillis": 1759335829810
+        },
+        {
+          "timestampMillis": 1759335876742
+        },
+        {
+          "timestampMillis": 1759336102677
+        },
+        {
+          "timestampMillis": 1759338643052
+        },
+        {
+          "timestampMillis": 1759338648186
+        },
+        {
+          "timestampMillis": 1759340219116
+        },
+        {
+          "timestampMillis": 1759340459028
+        },
+        {
+          "timestampMillis": 1759340554059
+        },
+        {
+          "timestampMillis": 1759340690166
+        },
+        {
+          "timestampMillis": 1759418342922
+        },
+        {
+          "timestampMillis": 1759420480550
+        },
+        {
+          "timestampMillis": 1759422062898
+        },
+        {
+          "timestampMillis": 1759422081070
+        },
+        {
+          "timestampMillis": 1759422088930
+        },
+        {
+          "timestampMillis": 1759422137949
+        },
+        {
+          "timestampMillis": 1759422187690
+        },
+        {
+          "timestampMillis": 1759422225939
+        },
+        {
+          "timestampMillis": 1759422245150
+        },
+        {
+          "timestampMillis": 1759422380248
+        },
+        {
+          "timestampMillis": 1759423277092
+        },
+        {
+          "timestampMillis": 1759423382271
+        },
+        {
+          "timestampMillis": 1759423661189
+        },
+        {
+          "timestampMillis": 1759423905086
+        },
+        {
+          "timestampMillis": 1759424317980
+        },
+        {
+          "timestampMillis": 1759425667587
+        },
+        {
+          "timestampMillis": 1759428299580
+        },
+        {
+          "timestampMillis": 1759429155260
+        },
+        {
+          "timestampMillis": 1759429350929
+        },
+        {
+          "timestampMillis": 1759432342944
+        },
+        {
+          "timestampMillis": 1759432345571
+        },
+        {
+          "timestampMillis": 1759432396155
+        },
+        {
+          "timestampMillis": 1759433699184
+        },
+        {
+          "timestampMillis": 1759433795699
+        },
+        {
+          "timestampMillis": 1759434197144
+        },
+        {
+          "timestampMillis": 1759434265871
+        },
+        {
+          "timestampMillis": 1759434284652
+        },
+        {
+          "timestampMillis": 1759434332483
+        },
+        {
+          "timestampMillis": 1759434596830
+        },
+        {
+          "timestampMillis": 1759522504815
+        },
+        {
+          "timestampMillis": 1759523066756
+        },
+        {
+          "timestampMillis": 1759523410860
+        },
+        {
+          "timestampMillis": 1759764071206
+        },
+        {
+          "timestampMillis": 1759764214579
+        },
+        {
+          "timestampMillis": 1759764219462
+        },
+        {
+          "timestampMillis": 1759765209859
+        },
+        {
+          "timestampMillis": 1759769134440
+        },
+        {
+          "timestampMillis": 1759769289392
+        },
+        {
+          "timestampMillis": 1759769861721
+        },
+        {
+          "timestampMillis": 1759770086286
+        },
+        {
+          "timestampMillis": 1759770738506
+        },
+        {
+          "timestampMillis": 1759770749560
+        },
+        {
+          "timestampMillis": 1759770754905
+        },
+        {
+          "timestampMillis": 1759772337543
+        },
+        {
+          "timestampMillis": 1759772351566
+        },
+        {
+          "timestampMillis": 1759778222104
+        },
+        {
+          "timestampMillis": 1759779612724
+        },
+        {
+          "timestampMillis": 1759781212905
+        },
+        {
+          "timestampMillis": 1759781372627
+        },
+        {
+          "timestampMillis": 1759857031932
+        },
+        {
+          "timestampMillis": 1759859858389
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/vgraph2.png",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1759345924931
+        },
+        {
+          "timestampMillis": 1759345933330
+        },
+        {
+          "timestampMillis": 1760550420929
+        },
+        {
+          "timestampMillis": 1760550421338
+        },
+        {
+          "timestampMillis": 1760550436248
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/vgraph3.png",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1759345926150
+        },
+        {
+          "timestampMillis": 1759345941700
+        },
+        {
+          "timestampMillis": 1760550420099
+        },
+        {
+          "timestampMillis": 1760550420752
+        },
+        {
+          "timestampMillis": 1760550436747
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/vgraph4.png",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1759345927398
+        },
+        {
+          "timestampMillis": 1759345955551
+        },
+        {
+          "timestampMillis": 1760550419296
+        },
+        {
+          "timestampMillis": 1760550419674
+        },
+        {
+          "timestampMillis": 1760550437149
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/vgraph1.png",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1759345929819
+        },
+        {
+          "timestampMillis": 1760550422029
+        },
+        {
+          "timestampMillis": 1760550422543
+        },
+        {
+          "timestampMillis": 1760550435009
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/midterm1 practice exam.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 39,
+      "openLogs": [
+        {
+          "timestampMillis": 1759421291978
+        },
+        {
+          "timestampMillis": 1759421811558
+        },
+        {
+          "timestampMillis": 1759421842279
+        },
+        {
+          "timestampMillis": 1759422074377
+        },
+        {
+          "timestampMillis": 1759422083431
+        },
+        {
+          "timestampMillis": 1759422096223
+        },
+        {
+          "timestampMillis": 1759422146814
+        },
+        {
+          "timestampMillis": 1759422203361
+        },
+        {
+          "timestampMillis": 1759422236691
+        },
+        {
+          "timestampMillis": 1759422255894
+        },
+        {
+          "timestampMillis": 1759422402616
+        },
+        {
+          "timestampMillis": 1759422731361
+        },
+        {
+          "timestampMillis": 1759423282059
+        },
+        {
+          "timestampMillis": 1759423383817
+        },
+        {
+          "timestampMillis": 1759423682678
+        },
+        {
+          "timestampMillis": 1759423892369
+        },
+        {
+          "timestampMillis": 1759423901763
+        },
+        {
+          "timestampMillis": 1759423912978
+        },
+        {
+          "timestampMillis": 1759424333084
+        },
+        {
+          "timestampMillis": 1759424769464
+        },
+        {
+          "timestampMillis": 1759425778556
+        },
+        {
+          "timestampMillis": 1759429501052
+        },
+        {
+          "timestampMillis": 1759432366618
+        },
+        {
+          "timestampMillis": 1759432401187
+        },
+        {
+          "timestampMillis": 1759433697703
+        },
+        {
+          "timestampMillis": 1759433710914
+        },
+        {
+          "timestampMillis": 1759433796766
+        },
+        {
+          "timestampMillis": 1759433903732
+        },
+        {
+          "timestampMillis": 1759433929816
+        },
+        {
+          "timestampMillis": 1759433957631
+        },
+        {
+          "timestampMillis": 1759433971825
+        },
+        {
+          "timestampMillis": 1759433988066
+        },
+        {
+          "timestampMillis": 1759434248200
+        },
+        {
+          "timestampMillis": 1759434302920
+        },
+        {
+          "timestampMillis": 1759434306618
+        },
+        {
+          "timestampMillis": 1759434320104
+        },
+        {
+          "timestampMillis": 1759434354420
+        },
+        {
+          "timestampMillis": 1759523066108
+        },
+        {
+          "timestampMillis": 1759769903777
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/Exam Cheat Sheet.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 14,
+      "openLogs": [
+        {
+          "timestampMillis": 1759425826303
+        },
+        {
+          "timestampMillis": 1759428076942
+        },
+        {
+          "timestampMillis": 1759428304051
+        },
+        {
+          "timestampMillis": 1759429278324
+        },
+        {
+          "timestampMillis": 1759429363463
+        },
+        {
+          "timestampMillis": 1759429515192
+        },
+        {
+          "timestampMillis": 1759434357142
+        },
+        {
+          "timestampMillis": 1759434473889
+        },
+        {
+          "timestampMillis": 1759434596107
+        },
+        {
+          "timestampMillis": 1759523068877
+        },
+        {
+          "timestampMillis": 1759769869221
+        },
+        {
+          "timestampMillis": 1759769914338
+        },
+        {
+          "timestampMillis": 1759770084829
+        },
+        {
+          "timestampMillis": 1759864993944
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/Practice Exam 2.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 17,
+      "openLogs": [
+        {
+          "timestampMillis": 1759430072368
+        },
+        {
+          "timestampMillis": 1759432368102
+        },
+        {
+          "timestampMillis": 1759432402487
+        },
+        {
+          "timestampMillis": 1759433714211
+        },
+        {
+          "timestampMillis": 1759433816345
+        },
+        {
+          "timestampMillis": 1759433917698
+        },
+        {
+          "timestampMillis": 1759433938164
+        },
+        {
+          "timestampMillis": 1759433960701
+        },
+        {
+          "timestampMillis": 1759433973715
+        },
+        {
+          "timestampMillis": 1759434022253
+        },
+        {
+          "timestampMillis": 1759434250833
+        },
+        {
+          "timestampMillis": 1759434269670
+        },
+        {
+          "timestampMillis": 1759434304604
+        },
+        {
+          "timestampMillis": 1759434309151
+        },
+        {
+          "timestampMillis": 1759434379790
+        },
+        {
+          "timestampMillis": 1759434482940
+        },
+        {
+          "timestampMillis": 1759769893084
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 6 — Motion Planning II.md",
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 29,
+      "openLogs": [
+        {
+          "timestampMillis": 1759591371380
+        },
+        {
+          "timestampMillis": 1759592032370
+        },
+        {
+          "timestampMillis": 1759592184112
+        },
+        {
+          "timestampMillis": 1759592188578
+        },
+        {
+          "timestampMillis": 1759592758195
+        },
+        {
+          "timestampMillis": 1759592760256
+        },
+        {
+          "timestampMillis": 1759593134954
+        },
+        {
+          "timestampMillis": 1759593701431
+        },
+        {
+          "timestampMillis": 1759594308677
+        },
+        {
+          "timestampMillis": 1759594373026
+        },
+        {
+          "timestampMillis": 1759594382431
+        },
+        {
+          "timestampMillis": 1759594445645
+        },
+        {
+          "timestampMillis": 1759594646348
+        },
+        {
+          "timestampMillis": 1759594771391
+        },
+        {
+          "timestampMillis": 1759594895774
+        },
+        {
+          "timestampMillis": 1759596970205
+        },
+        {
+          "timestampMillis": 1759597222630
+        },
+        {
+          "timestampMillis": 1759597291038
+        },
+        {
+          "timestampMillis": 1759597590263
+        },
+        {
+          "timestampMillis": 1759783085677
+        },
+        {
+          "timestampMillis": 1759864977195
+        },
+        {
+          "timestampMillis": 1759943191259
+        },
+        {
+          "timestampMillis": 1760215793647
+        },
+        {
+          "timestampMillis": 1760216059109
+        },
+        {
+          "timestampMillis": 1760216064797
+        },
+        {
+          "timestampMillis": 1760216396933
+        },
+        {
+          "timestampMillis": 1760557709969
+        },
+        {
+          "timestampMillis": 1760559204803
+        },
+        {
+          "timestampMillis": 1760559242298
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/File Systems.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 49,
+      "openLogs": [
+        {
+          "timestampMillis": 1759764171156
+        },
+        {
+          "timestampMillis": 1759764218117
+        },
+        {
+          "timestampMillis": 1759764220920
+        },
+        {
+          "timestampMillis": 1759765214192
+        },
+        {
+          "timestampMillis": 1759769288518
+        },
+        {
+          "timestampMillis": 1759769305687
+        },
+        {
+          "timestampMillis": 1759769541256
+        },
+        {
+          "timestampMillis": 1759769656115
+        },
+        {
+          "timestampMillis": 1759769870133
+        },
+        {
+          "timestampMillis": 1759769928038
+        },
+        {
+          "timestampMillis": 1759770103895
+        },
+        {
+          "timestampMillis": 1759770108499
+        },
+        {
+          "timestampMillis": 1759770161017
+        },
+        {
+          "timestampMillis": 1759770475267
+        },
+        {
+          "timestampMillis": 1759770481169
+        },
+        {
+          "timestampMillis": 1759770745655
+        },
+        {
+          "timestampMillis": 1759770751803
+        },
+        {
+          "timestampMillis": 1759770764290
+        },
+        {
+          "timestampMillis": 1759772350551
+        },
+        {
+          "timestampMillis": 1759772356648
+        },
+        {
+          "timestampMillis": 1759778252926
+        },
+        {
+          "timestampMillis": 1759779105918
+        },
+        {
+          "timestampMillis": 1759779118995
+        },
+        {
+          "timestampMillis": 1759779952110
+        },
+        {
+          "timestampMillis": 1759781197991
+        },
+        {
+          "timestampMillis": 1759783079188
+        },
+        {
+          "timestampMillis": 1759855090084
+        },
+        {
+          "timestampMillis": 1759864994603
+        },
+        {
+          "timestampMillis": 1759865653110
+        },
+        {
+          "timestampMillis": 1759872124157
+        },
+        {
+          "timestampMillis": 1759872865470
+        },
+        {
+          "timestampMillis": 1759872872230
+        },
+        {
+          "timestampMillis": 1759872994710
+        },
+        {
+          "timestampMillis": 1759876323940
+        },
+        {
+          "timestampMillis": 1759877198318
+        },
+        {
+          "timestampMillis": 1759877835397
+        },
+        {
+          "timestampMillis": 1760040162742
+        },
+        {
+          "timestampMillis": 1760115140557
+        },
+        {
+          "timestampMillis": 1760115217117
+        },
+        {
+          "timestampMillis": 1760115258584
+        },
+        {
+          "timestampMillis": 1760115336453
+        },
+        {
+          "timestampMillis": 1760116076734
+        },
+        {
+          "timestampMillis": 1760116689059
+        },
+        {
+          "timestampMillis": 1760128378645
+        },
+        {
+          "timestampMillis": 1760130909226
+        },
+        {
+          "timestampMillis": 1760131602048
+        },
+        {
+          "timestampMillis": 1760131995817
+        },
+        {
+          "timestampMillis": 1760132553739
+        },
+        {
+          "timestampMillis": 1760215783154
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/imgs/i-node.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1759769531999
+        },
+        {
+          "timestampMillis": 1759769541095
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/Virtual Memory.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1759782830213
+        },
+        {
+          "timestampMillis": 1760040154705
+        },
+        {
+          "timestampMillis": 1760115139961
+        },
+        {
+          "timestampMillis": 1760115201036
+        },
+        {
+          "timestampMillis": 1760115219838
+        },
+        {
+          "timestampMillis": 1760115261352
+        },
+        {
+          "timestampMillis": 1760115339003
+        },
+        {
+          "timestampMillis": 1760116083489
+        },
+        {
+          "timestampMillis": 1760116373649
+        },
+        {
+          "timestampMillis": 1760373922606
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Quiz 2—Notes.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1759855062554
+        },
+        {
+          "timestampMillis": 1759855076547
+        },
+        {
+          "timestampMillis": 1759856194004
+        },
+        {
+          "timestampMillis": 1759857024471
+        },
+        {
+          "timestampMillis": 1759871101901
+        },
+        {
+          "timestampMillis": 1759871380509
+        },
+        {
+          "timestampMillis": 1759871399739
+        },
+        {
+          "timestampMillis": 1759871410344
+        },
+        {
+          "timestampMillis": 1759872878650
+        },
+        {
+          "timestampMillis": 1759872917571
+        },
+        {
+          "timestampMillis": 1759872924403
+        },
+        {
+          "timestampMillis": 1759872929590
+        },
+        {
+          "timestampMillis": 1759873219424
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Quiz 1—Notes.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1759855069965
+        },
+        {
+          "timestampMillis": 1759855091978
+        },
+        {
+          "timestampMillis": 1759855887433
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Privacy.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1759855894862
+        },
+        {
+          "timestampMillis": 1759856195064
+        },
+        {
+          "timestampMillis": 1759857035699
+        },
+        {
+          "timestampMillis": 1759861729965
+        },
+        {
+          "timestampMillis": 1759861733850
+        },
+        {
+          "timestampMillis": 1759861742556
+        },
+        {
+          "timestampMillis": 1759861987550
+        },
+        {
+          "timestampMillis": 1759863171200
+        },
+        {
+          "timestampMillis": 1759863178636
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/AI & Learning.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1759859847530
+        },
+        {
+          "timestampMillis": 1759860643057
+        },
+        {
+          "timestampMillis": 1759861704927
+        },
+        {
+          "timestampMillis": 1759863174412
+        },
+        {
+          "timestampMillis": 1759871395297
+        },
+        {
+          "timestampMillis": 1759871402315
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Information integrity.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
+      "openLogs": [
+        {
+          "timestampMillis": 1759859895814
+        },
+        {
+          "timestampMillis": 1759861099164
+        },
+        {
+          "timestampMillis": 1759861104412
+        },
+        {
+          "timestampMillis": 1759861705473
+        },
+        {
+          "timestampMillis": 1759861743365
+        },
+        {
+          "timestampMillis": 1759863175089
+        },
+        {
+          "timestampMillis": 1759871424776
+        },
+        {
+          "timestampMillis": 1759872130814
+        },
+        {
+          "timestampMillis": 1759872866625
+        },
+        {
+          "timestampMillis": 1759873510512
+        },
+        {
+          "timestampMillis": 1759877833693
+        },
+        {
+          "timestampMillis": 1759938986167
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Algorithm fairness.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1759859920023
+        },
+        {
+          "timestampMillis": 1759861725669
+        },
+        {
+          "timestampMillis": 1759861748069
+        },
+        {
+          "timestampMillis": 1759861997041
+        },
+        {
+          "timestampMillis": 1759863182491
+        },
+        {
+          "timestampMillis": 1759871407692
+        },
+        {
+          "timestampMillis": 1759872115292
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Intellectual Property.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 15,
+      "openLogs": [
+        {
+          "timestampMillis": 1759859955821
+        },
+        {
+          "timestampMillis": 1759861102884
+        },
+        {
+          "timestampMillis": 1759861706142
+        },
+        {
+          "timestampMillis": 1759861730813
+        },
+        {
+          "timestampMillis": 1759861737310
+        },
+        {
+          "timestampMillis": 1759861745460
+        },
+        {
+          "timestampMillis": 1759862297914
+        },
+        {
+          "timestampMillis": 1759862580471
+        },
+        {
+          "timestampMillis": 1759863185773
+        },
+        {
+          "timestampMillis": 1759863828526
+        },
+        {
+          "timestampMillis": 1759872923238
+        },
+        {
+          "timestampMillis": 1759872925598
+        },
+        {
+          "timestampMillis": 1759872993632
+        },
+        {
+          "timestampMillis": 1759873110772
+        },
+        {
+          "timestampMillis": 1759873284598
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Technomoral ethics.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1759860022213
+        },
+        {
+          "timestampMillis": 1759860208618
+        },
+        {
+          "timestampMillis": 1759860215337
+        },
+        {
+          "timestampMillis": 1759861710212
+        },
+        {
+          "timestampMillis": 1759861744350
+        },
+        {
+          "timestampMillis": 1759863170332
+        },
+        {
+          "timestampMillis": 1759871375344
+        },
+        {
+          "timestampMillis": 1759871384632
+        },
+        {
+          "timestampMillis": 1759872117158
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Sample Quiz 2.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1759863307273
+        },
+        {
+          "timestampMillis": 1759864964334
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Week 4 reading Notes.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1759864023384
+        },
+        {
+          "timestampMillis": 1760458986404
+        },
+        {
+          "timestampMillis": 1760458987054
+        },
+        {
+          "timestampMillis": 1760458988586
+        },
+        {
+          "timestampMillis": 1760459005507
+        },
+        {
+          "timestampMillis": 1760459034778
+        },
+        {
+          "timestampMillis": 1760459039811
+        },
+        {
+          "timestampMillis": 1760459054562
+        },
+        {
+          "timestampMillis": 1760459094712
+        },
+        {
+          "timestampMillis": 1760459224264
+        },
+        {
+          "timestampMillis": 1760459249948
+        },
+        {
+          "timestampMillis": 1760459286216
+        },
+        {
+          "timestampMillis": 1760459296386
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Quiz 2 Cheat Sheet.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1759873437990
+        },
+        {
+          "timestampMillis": 1759873521924
+        },
+        {
+          "timestampMillis": 1759875244383
+        },
+        {
+          "timestampMillis": 1759875927634
+        },
+        {
+          "timestampMillis": 1759876324479
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Week6 in class.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1759877863457
+        },
+        {
+          "timestampMillis": 1759878363368
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Deontology.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1759878346427
+        },
+        {
+          "timestampMillis": 1759898950236
+        },
+        {
+          "timestampMillis": 1760542571876
+        },
+        {
+          "timestampMillis": 1760542572716
+        },
+        {
+          "timestampMillis": 1760542605696
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Sample Space and Events.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1759899428054
+        },
+        {
+          "timestampMillis": 1759899544554
+        },
+        {
+          "timestampMillis": 1759899563134
+        },
+        {
+          "timestampMillis": 1759946885702
+        },
+        {
+          "timestampMillis": 1759946912243
+        },
+        {
+          "timestampMillis": 1759975621935
+        },
+        {
+          "timestampMillis": 1759977513500
+        },
+        {
+          "timestampMillis": 1759977523664
+        },
+        {
+          "timestampMillis": 1759977640385
+        },
+        {
+          "timestampMillis": 1759977648644
+        },
+        {
+          "timestampMillis": 1759977666395
+        },
+        {
+          "timestampMillis": 1760564754130
+        },
+        {
+          "timestampMillis": 1760564789436
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Counting.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 16,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901525013
+        },
+        {
+          "timestampMillis": 1759975651272
+        },
+        {
+          "timestampMillis": 1759975896750
+        },
+        {
+          "timestampMillis": 1759975913742
+        },
+        {
+          "timestampMillis": 1759976264596
+        },
+        {
+          "timestampMillis": 1759976411410
+        },
+        {
+          "timestampMillis": 1759976417586
+        },
+        {
+          "timestampMillis": 1759976420882
+        },
+        {
+          "timestampMillis": 1759976536863
+        },
+        {
+          "timestampMillis": 1759976989204
+        },
+        {
+          "timestampMillis": 1759977306343
+        },
+        {
+          "timestampMillis": 1759977426926
+        },
+        {
+          "timestampMillis": 1759977614244
+        },
+        {
+          "timestampMillis": 1759977656562
+        },
+        {
+          "timestampMillis": 1759977664178
+        },
+        {
+          "timestampMillis": 1759977867643
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Probability.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 20,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901578232
+        },
+        {
+          "timestampMillis": 1759901596347
+        },
+        {
+          "timestampMillis": 1759976256806
+        },
+        {
+          "timestampMillis": 1759976398038
+        },
+        {
+          "timestampMillis": 1759976416461
+        },
+        {
+          "timestampMillis": 1759976418559
+        },
+        {
+          "timestampMillis": 1759976422856
+        },
+        {
+          "timestampMillis": 1759976548659
+        },
+        {
+          "timestampMillis": 1759977314993
+        },
+        {
+          "timestampMillis": 1759977407229
+        },
+        {
+          "timestampMillis": 1759977630376
+        },
+        {
+          "timestampMillis": 1759977651238
+        },
+        {
+          "timestampMillis": 1759977668684
+        },
+        {
+          "timestampMillis": 1759977884259
+        },
+        {
+          "timestampMillis": 1759978110279
+        },
+        {
+          "timestampMillis": 1759978160313
+        },
+        {
+          "timestampMillis": 1759978279069
+        },
+        {
+          "timestampMillis": 1759978286235
+        },
+        {
+          "timestampMillis": 1759978298982
+        },
+        {
+          "timestampMillis": 1760025859236
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Conditional probability.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901592394
+        },
+        {
+          "timestampMillis": 1759976980834
+        },
+        {
+          "timestampMillis": 1759976997409
+        },
+        {
+          "timestampMillis": 1759977307591
+        },
+        {
+          "timestampMillis": 1759977427684
+        },
+        {
+          "timestampMillis": 1759977609971
+        },
+        {
+          "timestampMillis": 1759977613534
+        },
+        {
+          "timestampMillis": 1759977658107
+        },
+        {
+          "timestampMillis": 1759977661606
+        },
+        {
+          "timestampMillis": 1759977865558
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Bayes rule.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 33,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901614995
+        },
+        {
+          "timestampMillis": 1759976263517
+        },
+        {
+          "timestampMillis": 1759977078273
+        },
+        {
+          "timestampMillis": 1759977305097
+        },
+        {
+          "timestampMillis": 1759977334852
+        },
+        {
+          "timestampMillis": 1759977611954
+        },
+        {
+          "timestampMillis": 1759977659655
+        },
+        {
+          "timestampMillis": 1759977678007
+        },
+        {
+          "timestampMillis": 1759977848331
+        },
+        {
+          "timestampMillis": 1759977852947
+        },
+        {
+          "timestampMillis": 1759977866866
+        },
+        {
+          "timestampMillis": 1759978002758
+        },
+        {
+          "timestampMillis": 1759978131471
+        },
+        {
+          "timestampMillis": 1759978276779
+        },
+        {
+          "timestampMillis": 1759978282148
+        },
+        {
+          "timestampMillis": 1759978287972
+        },
+        {
+          "timestampMillis": 1759978301080
+        },
+        {
+          "timestampMillis": 1759978584541
+        },
+        {
+          "timestampMillis": 1759978667738
+        },
+        {
+          "timestampMillis": 1759978686945
+        },
+        {
+          "timestampMillis": 1759978691068
+        },
+        {
+          "timestampMillis": 1759978703229
+        },
+        {
+          "timestampMillis": 1759978875308
+        },
+        {
+          "timestampMillis": 1759979078732
+        },
+        {
+          "timestampMillis": 1760027693990
+        },
+        {
+          "timestampMillis": 1760482775670
+        },
+        {
+          "timestampMillis": 1760482776457
+        },
+        {
+          "timestampMillis": 1760482776669
+        },
+        {
+          "timestampMillis": 1760483352100
+        },
+        {
+          "timestampMillis": 1760485712947
+        },
+        {
+          "timestampMillis": 1760485736230
+        },
+        {
+          "timestampMillis": 1760485741956
+        },
+        {
+          "timestampMillis": 1760540722588
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Random Variables.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901643861
+        },
+        {
+          "timestampMillis": 1759977116146
+        },
+        {
+          "timestampMillis": 1759977312751
+        },
+        {
+          "timestampMillis": 1759977638636
+        },
+        {
+          "timestampMillis": 1759977851299
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Probability Distributions.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 23,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901666964
+        },
+        {
+          "timestampMillis": 1759951082908
+        },
+        {
+          "timestampMillis": 1759951469902
+        },
+        {
+          "timestampMillis": 1759951614242
+        },
+        {
+          "timestampMillis": 1759951617360
+        },
+        {
+          "timestampMillis": 1759951876565
+        },
+        {
+          "timestampMillis": 1759953109182
+        },
+        {
+          "timestampMillis": 1759953123057
+        },
+        {
+          "timestampMillis": 1759953135700
+        },
+        {
+          "timestampMillis": 1759953439106
+        },
+        {
+          "timestampMillis": 1759953441751
+        },
+        {
+          "timestampMillis": 1759953444598
+        },
+        {
+          "timestampMillis": 1759953500580
+        },
+        {
+          "timestampMillis": 1759953524066
+        },
+        {
+          "timestampMillis": 1759953767943
+        },
+        {
+          "timestampMillis": 1759975860890
+        },
+        {
+          "timestampMillis": 1759976258090
+        },
+        {
+          "timestampMillis": 1759977403690
+        },
+        {
+          "timestampMillis": 1759977548008
+        },
+        {
+          "timestampMillis": 1759977635693
+        },
+        {
+          "timestampMillis": 1759977650081
+        },
+        {
+          "timestampMillis": 1759977667610
+        },
+        {
+          "timestampMillis": 1760380600296
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Expectation & Variance.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901734095
+        },
+        {
+          "timestampMillis": 1759977175066
+        },
+        {
+          "timestampMillis": 1759977311252
+        },
+        {
+          "timestampMillis": 1759977417023
+        },
+        {
+          "timestampMillis": 1759977622272
+        },
+        {
+          "timestampMillis": 1759977657242
+        },
+        {
+          "timestampMillis": 1759977864941
+        },
+        {
+          "timestampMillis": 1759977880130
+        },
+        {
+          "timestampMillis": 1760029009560
+        },
+        {
+          "timestampMillis": 1760029017204
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Linear combinations.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901765161
+        },
+        {
+          "timestampMillis": 1759977228613
+        },
+        {
+          "timestampMillis": 1759977319400
+        },
+        {
+          "timestampMillis": 1759977386284
+        },
+        {
+          "timestampMillis": 1759977411601
+        },
+        {
+          "timestampMillis": 1759977413463
+        },
+        {
+          "timestampMillis": 1759977625536
+        },
+        {
+          "timestampMillis": 1759977653841
+        },
+        {
+          "timestampMillis": 1759977863484
+        },
+        {
+          "timestampMillis": 1759977881799
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Binomial & Multinomial.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901804433
+        },
+        {
+          "timestampMillis": 1759976264085
+        },
+        {
+          "timestampMillis": 1759977272494
+        },
+        {
+          "timestampMillis": 1759977429553
+        },
+        {
+          "timestampMillis": 1759977612670
+        },
+        {
+          "timestampMillis": 1759977658889
+        },
+        {
+          "timestampMillis": 1759977866175
+        },
+        {
+          "timestampMillis": 1760027695757
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Hypergeometric Distribution.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901832281
+        },
+        {
+          "timestampMillis": 1759977332862
+        },
+        {
+          "timestampMillis": 1759977338846
+        },
+        {
+          "timestampMillis": 1759977359983
+        },
+        {
+          "timestampMillis": 1759977378267
+        },
+        {
+          "timestampMillis": 1759977412733
+        },
+        {
+          "timestampMillis": 1759977415431
+        },
+        {
+          "timestampMillis": 1759977623853
+        },
+        {
+          "timestampMillis": 1759977655369
+        },
+        {
+          "timestampMillis": 1759977864316
+        },
+        {
+          "timestampMillis": 1759977880865
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Negative Binomial & Geometric Distributions.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901851960
+        },
+        {
+          "timestampMillis": 1759977356514
+        },
+        {
+          "timestampMillis": 1759977363023
+        },
+        {
+          "timestampMillis": 1759977387668
+        },
+        {
+          "timestampMillis": 1759977410601
+        },
+        {
+          "timestampMillis": 1759977435751
+        },
+        {
+          "timestampMillis": 1759977626803
+        },
+        {
+          "timestampMillis": 1759977653056
+        },
+        {
+          "timestampMillis": 1759977862478
+        },
+        {
+          "timestampMillis": 1759977882449
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Poisson.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901877930
+        },
+        {
+          "timestampMillis": 1759977409767
+        },
+        {
+          "timestampMillis": 1759977457181
+        },
+        {
+          "timestampMillis": 1759977628720
+        },
+        {
+          "timestampMillis": 1759977652205
+        },
+        {
+          "timestampMillis": 1759977883643
+        }
+      ]
+    },
+    {
+      "path": "Stat/3021 - Intro to Probability & Statistics/Uniform & Normal Distribution.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1759901901277
+        },
+        {
+          "timestampMillis": 1759977484331
+        },
+        {
+          "timestampMillis": 1759977520066
+        },
+        {
+          "timestampMillis": 1759977642456
+        }
+      ]
+    },
+    {
+      "path": "Csci/3921W - Issues in Computing/lecture 10.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1759935823739
+        },
+        {
+          "timestampMillis": 1759936011294
+        },
+        {
+          "timestampMillis": 1759937254170
+        },
+        {
+          "timestampMillis": 1759941667823
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 7 — State Estimation.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 69,
+      "openLogs": [
+        {
+          "timestampMillis": 1759943908517
+        },
+        {
+          "timestampMillis": 1759943955031
+        },
+        {
+          "timestampMillis": 1759943972735
+        },
+        {
+          "timestampMillis": 1759946185948
+        },
+        {
+          "timestampMillis": 1759946430782
+        },
+        {
+          "timestampMillis": 1759946910541
+        },
+        {
+          "timestampMillis": 1759946926674
+        },
+        {
+          "timestampMillis": 1759947418819
+        },
+        {
+          "timestampMillis": 1759948042742
+        },
+        {
+          "timestampMillis": 1759948355634
+        },
+        {
+          "timestampMillis": 1759951257391
+        },
+        {
+          "timestampMillis": 1759951533628
+        },
+        {
+          "timestampMillis": 1759951620815
+        },
+        {
+          "timestampMillis": 1759951890544
+        },
+        {
+          "timestampMillis": 1759953112200
+        },
+        {
+          "timestampMillis": 1759953125248
+        },
+        {
+          "timestampMillis": 1759953140505
+        },
+        {
+          "timestampMillis": 1759953449405
+        },
+        {
+          "timestampMillis": 1759953499677
+        },
+        {
+          "timestampMillis": 1759953840665
+        },
+        {
+          "timestampMillis": 1759963218636
+        },
+        {
+          "timestampMillis": 1760025876773
+        },
+        {
+          "timestampMillis": 1760025891627
+        },
+        {
+          "timestampMillis": 1760027712764
+        },
+        {
+          "timestampMillis": 1760027983153
+        },
+        {
+          "timestampMillis": 1760028428531
+        },
+        {
+          "timestampMillis": 1760029018557
+        },
+        {
+          "timestampMillis": 1760378915480
+        },
+        {
+          "timestampMillis": 1760379319465
+        },
+        {
+          "timestampMillis": 1760379702254
+        },
+        {
+          "timestampMillis": 1760380581391
+        },
+        {
+          "timestampMillis": 1760380593915
+        },
+        {
+          "timestampMillis": 1760380602680
+        },
+        {
+          "timestampMillis": 1760380613431
+        },
+        {
+          "timestampMillis": 1760380639262
+        },
+        {
+          "timestampMillis": 1760380716988
+        },
+        {
+          "timestampMillis": 1760380721813
+        },
+        {
+          "timestampMillis": 1760380725045
+        },
+        {
+          "timestampMillis": 1760380731146
+        },
+        {
+          "timestampMillis": 1760382048842
+        },
+        {
+          "timestampMillis": 1760382217706
+        },
+        {
+          "timestampMillis": 1760386283605
+        },
+        {
+          "timestampMillis": 1760458984728
+        },
+        {
+          "timestampMillis": 1760473281232
+        },
+        {
+          "timestampMillis": 1760483544013
+        },
+        {
+          "timestampMillis": 1760483545170
+        },
+        {
+          "timestampMillis": 1760484356040
+        },
+        {
+          "timestampMillis": 1760484576148
+        },
+        {
+          "timestampMillis": 1760484615749
+        },
+        {
+          "timestampMillis": 1760484980254
+        },
+        {
+          "timestampMillis": 1760484994239
+        },
+        {
+          "timestampMillis": 1760541809434
+        },
+        {
+          "timestampMillis": 1760542426199
+        },
+        {
+          "timestampMillis": 1760543190708
+        },
+        {
+          "timestampMillis": 1760545112141
+        },
+        {
+          "timestampMillis": 1760545133347
+        },
+        {
+          "timestampMillis": 1760545604388
+        },
+        {
+          "timestampMillis": 1760546426636
+        },
+        {
+          "timestampMillis": 1760546478126
+        },
+        {
+          "timestampMillis": 1760547448850
+        },
+        {
+          "timestampMillis": 1760549289708
+        },
+        {
+          "timestampMillis": 1760549291554
+        },
+        {
+          "timestampMillis": 1760550839255
+        },
+        {
+          "timestampMillis": 1760550857550
+        },
+        {
+          "timestampMillis": 1760552355304
+        },
+        {
+          "timestampMillis": 1760554366984
+        },
+        {
+          "timestampMillis": 1760557522451
+        },
+        {
+          "timestampMillis": 1760559191834
+        },
+        {
+          "timestampMillis": 1760559243621
+        }
+      ]
+    },
+    {
+      "path": "Literature Notes/The Myth of Sisyphus - Albert Camus.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 20,
+      "openLogs": [
+        {
+          "timestampMillis": 1759953479022
+        },
+        {
+          "timestampMillis": 1759953499485
+        },
+        {
+          "timestampMillis": 1759953507103
+        },
+        {
+          "timestampMillis": 1759953526984
+        },
+        {
+          "timestampMillis": 1759953746195
+        },
+        {
+          "timestampMillis": 1759953844715
+        },
+        {
+          "timestampMillis": 1759963157984
+        },
+        {
+          "timestampMillis": 1759963215037
+        },
+        {
+          "timestampMillis": 1759964981012
+        },
+        {
+          "timestampMillis": 1759973113636
+        },
+        {
+          "timestampMillis": 1759973116723
+        },
+        {
+          "timestampMillis": 1759973644746
+        },
+        {
+          "timestampMillis": 1759973692282
+        },
+        {
+          "timestampMillis": 1759973701506
+        },
+        {
+          "timestampMillis": 1759974856784
+        },
+        {
+          "timestampMillis": 1759974858882
+        },
+        {
+          "timestampMillis": 1759975231652
+        },
+        {
+          "timestampMillis": 1760464578974
+        },
+        {
+          "timestampMillis": 1760464580487
+        },
+        {
+          "timestampMillis": 1760465217147
+        }
+      ]
+    },
+    {
+      "path": "Literature Notes/The Ego and its Own - Max Stirner.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 30,
+      "openLogs": [
+        {
+          "timestampMillis": 1759953720470
+        },
+        {
+          "timestampMillis": 1759953738831
+        },
+        {
+          "timestampMillis": 1759953747470
+        },
+        {
+          "timestampMillis": 1759953768752
+        },
+        {
+          "timestampMillis": 1759953826976
+        },
+        {
+          "timestampMillis": 1759953841427
+        },
+        {
+          "timestampMillis": 1759964939536
+        },
+        {
+          "timestampMillis": 1759964968000
+        },
+        {
+          "timestampMillis": 1759964981746
+        },
+        {
+          "timestampMillis": 1759975204484
+        },
+        {
+          "timestampMillis": 1759975222355
+        },
+        {
+          "timestampMillis": 1759975271233
+        },
+        {
+          "timestampMillis": 1759975574791
+        },
+        {
+          "timestampMillis": 1760459301974
+        },
+        {
+          "timestampMillis": 1760459302733
+        },
+        {
+          "timestampMillis": 1760462995264
+        },
+        {
+          "timestampMillis": 1760463044723
+        },
+        {
+          "timestampMillis": 1760463062048
+        },
+        {
+          "timestampMillis": 1760463093486
+        },
+        {
+          "timestampMillis": 1760463098069
+        },
+        {
+          "timestampMillis": 1760463200238
+        },
+        {
+          "timestampMillis": 1760464266864
+        },
+        {
+          "timestampMillis": 1760464285909
+        },
+        {
+          "timestampMillis": 1760464298978
+        },
+        {
+          "timestampMillis": 1760464305906
+        },
+        {
+          "timestampMillis": 1760464782294
+        },
+        {
+          "timestampMillis": 1760464796700
+        },
+        {
+          "timestampMillis": 1760466894025
+        },
+        {
+          "timestampMillis": 1760466921539
+        },
+        {
+          "timestampMillis": 1760473254630
+        }
+      ]
+    },
+    {
+      "path": "Literature Notes/Groundwork of the Metaphysics of Morals - Immanuel Kant.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 29,
+      "openLogs": [
+        {
+          "timestampMillis": 1759974854410
+        },
+        {
+          "timestampMillis": 1759974857467
+        },
+        {
+          "timestampMillis": 1759974862398
+        },
+        {
+          "timestampMillis": 1759974866752
+        },
+        {
+          "timestampMillis": 1759974873645
+        },
+        {
+          "timestampMillis": 1759974911712
+        },
+        {
+          "timestampMillis": 1759974918058
+        },
+        {
+          "timestampMillis": 1759974936511
+        },
+        {
+          "timestampMillis": 1759974963719
+        },
+        {
+          "timestampMillis": 1759975108769
+        },
+        {
+          "timestampMillis": 1759975114785
+        },
+        {
+          "timestampMillis": 1759975218045
+        },
+        {
+          "timestampMillis": 1759975263967
+        },
+        {
+          "timestampMillis": 1759975282186
+        },
+        {
+          "timestampMillis": 1759975581118
+        },
+        {
+          "timestampMillis": 1760463000544
+        },
+        {
+          "timestampMillis": 1760463001430
+        },
+        {
+          "timestampMillis": 1760463049237
+        },
+        {
+          "timestampMillis": 1760463065754
+        },
+        {
+          "timestampMillis": 1760463094852
+        },
+        {
+          "timestampMillis": 1760463111920
+        },
+        {
+          "timestampMillis": 1760463314826
+        },
+        {
+          "timestampMillis": 1760464276787
+        },
+        {
+          "timestampMillis": 1760464293333
+        },
+        {
+          "timestampMillis": 1760464303489
+        },
+        {
+          "timestampMillis": 1760464309769
+        },
+        {
+          "timestampMillis": 1760464784933
+        },
+        {
+          "timestampMillis": 1760466894987
+        },
+        {
+          "timestampMillis": 1760468181675
+        }
+      ]
+    },
+    {
+      "path": "Math/1271 - Calculus 1/Limits.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1760027678973
+        },
+        {
+          "timestampMillis": 1760027711036
+        },
+        {
+          "timestampMillis": 1760027712052
+        },
+        {
+          "timestampMillis": 1760027713553
+        },
+        {
+          "timestampMillis": 1760027866520
+        },
+        {
+          "timestampMillis": 1760473262609
+        },
+        {
+          "timestampMillis": 1760473263425
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Homework 1.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 14,
+      "openLogs": [
+        {
+          "timestampMillis": 1760215847733
+        },
+        {
+          "timestampMillis": 1760216276104
+        },
+        {
+          "timestampMillis": 1760216424006
+        },
+        {
+          "timestampMillis": 1760218588513
+        },
+        {
+          "timestampMillis": 1760219130895
+        },
+        {
+          "timestampMillis": 1760219132293
+        },
+        {
+          "timestampMillis": 1760219203115
+        },
+        {
+          "timestampMillis": 1760219219560
+        },
+        {
+          "timestampMillis": 1760219605459
+        },
+        {
+          "timestampMillis": 1760219632779
+        },
+        {
+          "timestampMillis": 1760219641895
+        },
+        {
+          "timestampMillis": 1760550470895
+        },
+        {
+          "timestampMillis": 1760550471478
+        },
+        {
+          "timestampMillis": 1760550757899
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Graph_drawing.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 53,
+      "openLogs": [
+        {
+          "timestampMillis": 1760216336705
+        },
+        {
+          "timestampMillis": 1760216421645
+        },
+        {
+          "timestampMillis": 1760216436481
+        },
+        {
+          "timestampMillis": 1760216439926
+        },
+        {
+          "timestampMillis": 1760216464873
+        },
+        {
+          "timestampMillis": 1760216610000
+        },
+        {
+          "timestampMillis": 1760216614281
+        },
+        {
+          "timestampMillis": 1760216625183
+        },
+        {
+          "timestampMillis": 1760216741998
+        },
+        {
+          "timestampMillis": 1760216803831
+        },
+        {
+          "timestampMillis": 1760216993193
+        },
+        {
+          "timestampMillis": 1760216997629
+        },
+        {
+          "timestampMillis": 1760217002279
+        },
+        {
+          "timestampMillis": 1760217017094
+        },
+        {
+          "timestampMillis": 1760217070874
+        },
+        {
+          "timestampMillis": 1760217227474
+        },
+        {
+          "timestampMillis": 1760217630124
+        },
+        {
+          "timestampMillis": 1760217708586
+        },
+        {
+          "timestampMillis": 1760217723762
+        },
+        {
+          "timestampMillis": 1760217822814
+        },
+        {
+          "timestampMillis": 1760217956984
+        },
+        {
+          "timestampMillis": 1760218382918
+        },
+        {
+          "timestampMillis": 1760218487471
+        },
+        {
+          "timestampMillis": 1760218518555
+        },
+        {
+          "timestampMillis": 1760218522736
+        },
+        {
+          "timestampMillis": 1760218542549
+        },
+        {
+          "timestampMillis": 1760219137558
+        },
+        {
+          "timestampMillis": 1760219178825
+        },
+        {
+          "timestampMillis": 1760219197204
+        },
+        {
+          "timestampMillis": 1760219604000
+        },
+        {
+          "timestampMillis": 1760219620657
+        },
+        {
+          "timestampMillis": 1760219636113
+        },
+        {
+          "timestampMillis": 1760219702235
+        },
+        {
+          "timestampMillis": 1760219728682
+        },
+        {
+          "timestampMillis": 1760219754303
+        },
+        {
+          "timestampMillis": 1760219762304
+        },
+        {
+          "timestampMillis": 1760219906868
+        },
+        {
+          "timestampMillis": 1760219921170
+        },
+        {
+          "timestampMillis": 1760219923965
+        },
+        {
+          "timestampMillis": 1760219951062
+        },
+        {
+          "timestampMillis": 1760219956878
+        },
+        {
+          "timestampMillis": 1760219962550
+        },
+        {
+          "timestampMillis": 1760219979398
+        },
+        {
+          "timestampMillis": 1760219990953
+        },
+        {
+          "timestampMillis": 1760220008051
+        },
+        {
+          "timestampMillis": 1760220166949
+        },
+        {
+          "timestampMillis": 1760373915846
+        },
+        {
+          "timestampMillis": 1760547674706
+        },
+        {
+          "timestampMillis": 1760550720775
+        },
+        {
+          "timestampMillis": 1760550723951
+        },
+        {
+          "timestampMillis": 1760557692517
+        },
+        {
+          "timestampMillis": 1760557715933
+        },
+        {
+          "timestampMillis": 1760568661465
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/GVD_Explained.excalidraw.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 20,
+      "openLogs": [
+        {
+          "timestampMillis": 1760219002457
+        },
+        {
+          "timestampMillis": 1760219131564
+        },
+        {
+          "timestampMillis": 1760219177870
+        },
+        {
+          "timestampMillis": 1760219704688
+        },
+        {
+          "timestampMillis": 1760219727444
+        },
+        {
+          "timestampMillis": 1760219752137
+        },
+        {
+          "timestampMillis": 1760219904205
+        },
+        {
+          "timestampMillis": 1760220097737
+        },
+        {
+          "timestampMillis": 1760220163885
+        },
+        {
+          "timestampMillis": 1760220189271
+        },
+        {
+          "timestampMillis": 1760550464166
+        },
+        {
+          "timestampMillis": 1760557689786
+        },
+        {
+          "timestampMillis": 1760557700274
+        },
+        {
+          "timestampMillis": 1760557708909
+        },
+        {
+          "timestampMillis": 1760557711860
+        },
+        {
+          "timestampMillis": 1760557738052
+        },
+        {
+          "timestampMillis": 1760557778544
+        },
+        {
+          "timestampMillis": 1760557781324
+        },
+        {
+          "timestampMillis": 1760557998907
+        },
+        {
+          "timestampMillis": 1760558004213
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/fgi2_0.png",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1760219182257
+        },
+        {
+          "timestampMillis": 1760550414299
+        },
+        {
+          "timestampMillis": 1760550424265
+        },
+        {
+          "timestampMillis": 1760550431635
+        },
+        {
+          "timestampMillis": 1760550439131
+        },
+        {
+          "timestampMillis": 1760550487162
+        },
+        {
+          "timestampMillis": 1760550504660
+        }
+      ]
+    },
+    {
+      "path": "Csci/4061 - Intro to OS/Signals.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1760373925627
+        },
+        {
+          "timestampMillis": 1760374035479
+        },
+        {
+          "timestampMillis": 1760374378079
+        },
+        {
+          "timestampMillis": 1760377344300
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 8 — SLAM.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 37,
+      "openLogs": [
+        {
+          "timestampMillis": 1760379287120
+        },
+        {
+          "timestampMillis": 1760379324689
+        },
+        {
+          "timestampMillis": 1760379717199
+        },
+        {
+          "timestampMillis": 1760380591333
+        },
+        {
+          "timestampMillis": 1760380605876
+        },
+        {
+          "timestampMillis": 1760380627586
+        },
+        {
+          "timestampMillis": 1760380640761
+        },
+        {
+          "timestampMillis": 1760380719257
+        },
+        {
+          "timestampMillis": 1760380723025
+        },
+        {
+          "timestampMillis": 1760380726443
+        },
+        {
+          "timestampMillis": 1760380733812
+        },
+        {
+          "timestampMillis": 1760382164370
+        },
+        {
+          "timestampMillis": 1760384310827
+        },
+        {
+          "timestampMillis": 1760385956680
+        },
+        {
+          "timestampMillis": 1760386060027
+        },
+        {
+          "timestampMillis": 1760386286000
+        },
+        {
+          "timestampMillis": 1760458956759
+        },
+        {
+          "timestampMillis": 1760468728951
+        },
+        {
+          "timestampMillis": 1760482333358
+        },
+        {
+          "timestampMillis": 1760482447760
+        },
+        {
+          "timestampMillis": 1760483527922
+        },
+        {
+          "timestampMillis": 1760483528704
+        },
+        {
+          "timestampMillis": 1760483536399
+        },
+        {
+          "timestampMillis": 1760484193495
+        },
+        {
+          "timestampMillis": 1760484217666
+        },
+        {
+          "timestampMillis": 1760484230912
+        },
+        {
+          "timestampMillis": 1760484246407
+        },
+        {
+          "timestampMillis": 1760484319804
+        },
+        {
+          "timestampMillis": 1760484353658
+        },
+        {
+          "timestampMillis": 1760484992811
+        },
+        {
+          "timestampMillis": 1760485029236
+        },
+        {
+          "timestampMillis": 1760485711979
+        },
+        {
+          "timestampMillis": 1760540723685
+        },
+        {
+          "timestampMillis": 1760540930816
+        },
+        {
+          "timestampMillis": 1760540935196
+        },
+        {
+          "timestampMillis": 1760541040625
+        },
+        {
+          "timestampMillis": 1760541807624
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Week 7 Reading notes.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 12,
+      "openLogs": [
+        {
+          "timestampMillis": 1760458977565
+        },
+        {
+          "timestampMillis": 1760458995441
+        },
+        {
+          "timestampMillis": 1760459008073
+        },
+        {
+          "timestampMillis": 1760459038257
+        },
+        {
+          "timestampMillis": 1760459043111
+        },
+        {
+          "timestampMillis": 1760459092827
+        },
+        {
+          "timestampMillis": 1760459096307
+        },
+        {
+          "timestampMillis": 1760459243960
+        },
+        {
+          "timestampMillis": 1760459252344
+        },
+        {
+          "timestampMillis": 1760459290229
+        },
+        {
+          "timestampMillis": 1760459310599
+        },
+        {
+          "timestampMillis": 1760459549497
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 1 — Linear Systems.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 60,
+      "openLogs": [
+        {
+          "timestampMillis": 1760482729086
+        },
+        {
+          "timestampMillis": 1760482787229
+        },
+        {
+          "timestampMillis": 1760484504158
+        },
+        {
+          "timestampMillis": 1760484515944
+        },
+        {
+          "timestampMillis": 1760484523423
+        },
+        {
+          "timestampMillis": 1760484531840
+        },
+        {
+          "timestampMillis": 1760484542667
+        },
+        {
+          "timestampMillis": 1760484549235
+        },
+        {
+          "timestampMillis": 1760484566125
+        },
+        {
+          "timestampMillis": 1760484585475
+        },
+        {
+          "timestampMillis": 1760484642789
+        },
+        {
+          "timestampMillis": 1760485731092
+        },
+        {
+          "timestampMillis": 1760485737240
+        },
+        {
+          "timestampMillis": 1760485756664
+        },
+        {
+          "timestampMillis": 1760486234621
+        },
+        {
+          "timestampMillis": 1760486295307
+        },
+        {
+          "timestampMillis": 1760486400344
+        },
+        {
+          "timestampMillis": 1760486432326
+        },
+        {
+          "timestampMillis": 1760486684151
+        },
+        {
+          "timestampMillis": 1760486778151
+        },
+        {
+          "timestampMillis": 1760486813571
+        },
+        {
+          "timestampMillis": 1760486841637
+        },
+        {
+          "timestampMillis": 1760488018060
+        },
+        {
+          "timestampMillis": 1760488098293
+        },
+        {
+          "timestampMillis": 1760488102174
+        },
+        {
+          "timestampMillis": 1760488148203
+        },
+        {
+          "timestampMillis": 1760488152110
+        },
+        {
+          "timestampMillis": 1760488178177
+        },
+        {
+          "timestampMillis": 1760488188422
+        },
+        {
+          "timestampMillis": 1760488320205
+        },
+        {
+          "timestampMillis": 1760489805973
+        },
+        {
+          "timestampMillis": 1760540731886
+        },
+        {
+          "timestampMillis": 1760540858585
+        },
+        {
+          "timestampMillis": 1760541116714
+        },
+        {
+          "timestampMillis": 1760541499491
+        },
+        {
+          "timestampMillis": 1760541557335
+        },
+        {
+          "timestampMillis": 1760541607778
+        },
+        {
+          "timestampMillis": 1760541794969
+        },
+        {
+          "timestampMillis": 1760541812941
+        },
+        {
+          "timestampMillis": 1760541913638
+        },
+        {
+          "timestampMillis": 1760541942410
+        },
+        {
+          "timestampMillis": 1760542201994
+        },
+        {
+          "timestampMillis": 1760542526138
+        },
+        {
+          "timestampMillis": 1760542612684
+        },
+        {
+          "timestampMillis": 1760543188953
+        },
+        {
+          "timestampMillis": 1760543194457
+        },
+        {
+          "timestampMillis": 1760543615292
+        },
+        {
+          "timestampMillis": 1760545107474
+        },
+        {
+          "timestampMillis": 1760545457857
+        },
+        {
+          "timestampMillis": 1760552721561
+        },
+        {
+          "timestampMillis": 1760552723441
+        },
+        {
+          "timestampMillis": 1760552837176
+        },
+        {
+          "timestampMillis": 1760554368276
+        },
+        {
+          "timestampMillis": 1760555581745
+        },
+        {
+          "timestampMillis": 1760559250340
+        },
+        {
+          "timestampMillis": 1760559743039
+        },
+        {
+          "timestampMillis": 1760559763334
+        },
+        {
+          "timestampMillis": 1760564664898
+        },
+        {
+          "timestampMillis": 1760564668182
+        },
+        {
+          "timestampMillis": 1760564750788
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 2 — Matrices.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 51,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486126801
+        },
+        {
+          "timestampMillis": 1760486202244
+        },
+        {
+          "timestampMillis": 1760486239687
+        },
+        {
+          "timestampMillis": 1760486390187
+        },
+        {
+          "timestampMillis": 1760486401320
+        },
+        {
+          "timestampMillis": 1760486441337
+        },
+        {
+          "timestampMillis": 1760486761385
+        },
+        {
+          "timestampMillis": 1760486809757
+        },
+        {
+          "timestampMillis": 1760486818302
+        },
+        {
+          "timestampMillis": 1760486827132
+        },
+        {
+          "timestampMillis": 1760486898368
+        },
+        {
+          "timestampMillis": 1760487242869
+        },
+        {
+          "timestampMillis": 1760487501750
+        },
+        {
+          "timestampMillis": 1760487878018
+        },
+        {
+          "timestampMillis": 1760488024508
+        },
+        {
+          "timestampMillis": 1760488099346
+        },
+        {
+          "timestampMillis": 1760488102733
+        },
+        {
+          "timestampMillis": 1760488149037
+        },
+        {
+          "timestampMillis": 1760488155711
+        },
+        {
+          "timestampMillis": 1760488180462
+        },
+        {
+          "timestampMillis": 1760488372294
+        },
+        {
+          "timestampMillis": 1760540834568
+        },
+        {
+          "timestampMillis": 1760540860392
+        },
+        {
+          "timestampMillis": 1760541094386
+        },
+        {
+          "timestampMillis": 1760541131037
+        },
+        {
+          "timestampMillis": 1760541537267
+        },
+        {
+          "timestampMillis": 1760541554792
+        },
+        {
+          "timestampMillis": 1760541559263
+        },
+        {
+          "timestampMillis": 1760541650768
+        },
+        {
+          "timestampMillis": 1760541814510
+        },
+        {
+          "timestampMillis": 1760541924050
+        },
+        {
+          "timestampMillis": 1760541947246
+        },
+        {
+          "timestampMillis": 1760542217965
+        },
+        {
+          "timestampMillis": 1760542613273
+        },
+        {
+          "timestampMillis": 1760543196436
+        },
+        {
+          "timestampMillis": 1760545110193
+        },
+        {
+          "timestampMillis": 1760545456706
+        },
+        {
+          "timestampMillis": 1760545462189
+        },
+        {
+          "timestampMillis": 1760546432905
+        },
+        {
+          "timestampMillis": 1760546436086
+        },
+        {
+          "timestampMillis": 1760546474534
+        },
+        {
+          "timestampMillis": 1760547415772
+        },
+        {
+          "timestampMillis": 1760549290592
+        },
+        {
+          "timestampMillis": 1760549292253
+        },
+        {
+          "timestampMillis": 1760552217544
+        },
+        {
+          "timestampMillis": 1760552220337
+        },
+        {
+          "timestampMillis": 1760552256768
+        },
+        {
+          "timestampMillis": 1760552258579
+        },
+        {
+          "timestampMillis": 1760552359379
+        },
+        {
+          "timestampMillis": 1760552361509
+        },
+        {
+          "timestampMillis": 1760552713609
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 3 — Euclidean Space.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 24,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486137353
+        },
+        {
+          "timestampMillis": 1760486149772
+        },
+        {
+          "timestampMillis": 1760486473680
+        },
+        {
+          "timestampMillis": 1760486620614
+        },
+        {
+          "timestampMillis": 1760486769247
+        },
+        {
+          "timestampMillis": 1760486807338
+        },
+        {
+          "timestampMillis": 1760486823752
+        },
+        {
+          "timestampMillis": 1760486901431
+        },
+        {
+          "timestampMillis": 1760487238858
+        },
+        {
+          "timestampMillis": 1760487243858
+        },
+        {
+          "timestampMillis": 1760487263022
+        },
+        {
+          "timestampMillis": 1760487433120
+        },
+        {
+          "timestampMillis": 1760487500768
+        },
+        {
+          "timestampMillis": 1760487877310
+        },
+        {
+          "timestampMillis": 1760488026754
+        },
+        {
+          "timestampMillis": 1760488100296
+        },
+        {
+          "timestampMillis": 1760488103571
+        },
+        {
+          "timestampMillis": 1760488105987
+        },
+        {
+          "timestampMillis": 1760488151423
+        },
+        {
+          "timestampMillis": 1760488156340
+        },
+        {
+          "timestampMillis": 1760488181377
+        },
+        {
+          "timestampMillis": 1760488559911
+        },
+        {
+          "timestampMillis": 1760541483928
+        },
+        {
+          "timestampMillis": 1760545455860
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 4 — General Vector Spaces.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 33,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486153370
+        },
+        {
+          "timestampMillis": 1760486619782
+        },
+        {
+          "timestampMillis": 1760486625486
+        },
+        {
+          "timestampMillis": 1760486994286
+        },
+        {
+          "timestampMillis": 1760487106751
+        },
+        {
+          "timestampMillis": 1760487129215
+        },
+        {
+          "timestampMillis": 1760487237967
+        },
+        {
+          "timestampMillis": 1760487245069
+        },
+        {
+          "timestampMillis": 1760487255196
+        },
+        {
+          "timestampMillis": 1760487264024
+        },
+        {
+          "timestampMillis": 1760487278232
+        },
+        {
+          "timestampMillis": 1760487294907
+        },
+        {
+          "timestampMillis": 1760487339239
+        },
+        {
+          "timestampMillis": 1760487430882
+        },
+        {
+          "timestampMillis": 1760487499634
+        },
+        {
+          "timestampMillis": 1760487876509
+        },
+        {
+          "timestampMillis": 1760488029153
+        },
+        {
+          "timestampMillis": 1760488101072
+        },
+        {
+          "timestampMillis": 1760488104571
+        },
+        {
+          "timestampMillis": 1760488106653
+        },
+        {
+          "timestampMillis": 1760488112858
+        },
+        {
+          "timestampMillis": 1760488156976
+        },
+        {
+          "timestampMillis": 1760488182137
+        },
+        {
+          "timestampMillis": 1760488688729
+        },
+        {
+          "timestampMillis": 1760489750032
+        },
+        {
+          "timestampMillis": 1760545455075
+        },
+        {
+          "timestampMillis": 1760549439109
+        },
+        {
+          "timestampMillis": 1760549683075
+        },
+        {
+          "timestampMillis": 1760549740065
+        },
+        {
+          "timestampMillis": 1760549748249
+        },
+        {
+          "timestampMillis": 1760549764798
+        },
+        {
+          "timestampMillis": 1760549780964
+        },
+        {
+          "timestampMillis": 1760550455739
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 5 — General Vector Spaces II.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 27,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486164246
+        },
+        {
+          "timestampMillis": 1760487101543
+        },
+        {
+          "timestampMillis": 1760487110450
+        },
+        {
+          "timestampMillis": 1760487131927
+        },
+        {
+          "timestampMillis": 1760487194032
+        },
+        {
+          "timestampMillis": 1760487201147
+        },
+        {
+          "timestampMillis": 1760487236952
+        },
+        {
+          "timestampMillis": 1760487265484
+        },
+        {
+          "timestampMillis": 1760487279202
+        },
+        {
+          "timestampMillis": 1760487292190
+        },
+        {
+          "timestampMillis": 1760487294024
+        },
+        {
+          "timestampMillis": 1760487295524
+        },
+        {
+          "timestampMillis": 1760487337985
+        },
+        {
+          "timestampMillis": 1760487339886
+        },
+        {
+          "timestampMillis": 1760487348374
+        },
+        {
+          "timestampMillis": 1760487427102
+        },
+        {
+          "timestampMillis": 1760487492702
+        },
+        {
+          "timestampMillis": 1760487498765
+        },
+        {
+          "timestampMillis": 1760487875204
+        },
+        {
+          "timestampMillis": 1760488031293
+        },
+        {
+          "timestampMillis": 1760488112003
+        },
+        {
+          "timestampMillis": 1760488121769
+        },
+        {
+          "timestampMillis": 1760488157744
+        },
+        {
+          "timestampMillis": 1760488183030
+        },
+        {
+          "timestampMillis": 1760489748155
+        },
+        {
+          "timestampMillis": 1760489750896
+        },
+        {
+          "timestampMillis": 1760545453986
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 6 — Inner Product Spaces.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 27,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486174058
+        },
+        {
+          "timestampMillis": 1760487193442
+        },
+        {
+          "timestampMillis": 1760487200534
+        },
+        {
+          "timestampMillis": 1760487203369
+        },
+        {
+          "timestampMillis": 1760487234427
+        },
+        {
+          "timestampMillis": 1760487280403
+        },
+        {
+          "timestampMillis": 1760487293017
+        },
+        {
+          "timestampMillis": 1760487296856
+        },
+        {
+          "timestampMillis": 1760487302057
+        },
+        {
+          "timestampMillis": 1760487335340
+        },
+        {
+          "timestampMillis": 1760487340887
+        },
+        {
+          "timestampMillis": 1760487350202
+        },
+        {
+          "timestampMillis": 1760487397875
+        },
+        {
+          "timestampMillis": 1760487420070
+        },
+        {
+          "timestampMillis": 1760487435819
+        },
+        {
+          "timestampMillis": 1760487491673
+        },
+        {
+          "timestampMillis": 1760487497108
+        },
+        {
+          "timestampMillis": 1760487502768
+        },
+        {
+          "timestampMillis": 1760487672218
+        },
+        {
+          "timestampMillis": 1760487677085
+        },
+        {
+          "timestampMillis": 1760487874429
+        },
+        {
+          "timestampMillis": 1760488034824
+        },
+        {
+          "timestampMillis": 1760488128821
+        },
+        {
+          "timestampMillis": 1760488158494
+        },
+        {
+          "timestampMillis": 1760488183730
+        },
+        {
+          "timestampMillis": 1760489752252
+        },
+        {
+          "timestampMillis": 1760545452990
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 7 — Linear Transformations.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 27,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486179107
+        },
+        {
+          "timestampMillis": 1760487301384
+        },
+        {
+          "timestampMillis": 1760487306439
+        },
+        {
+          "timestampMillis": 1760487334071
+        },
+        {
+          "timestampMillis": 1760487394252
+        },
+        {
+          "timestampMillis": 1760487398658
+        },
+        {
+          "timestampMillis": 1760487401186
+        },
+        {
+          "timestampMillis": 1760487423654
+        },
+        {
+          "timestampMillis": 1760487438728
+        },
+        {
+          "timestampMillis": 1760487496417
+        },
+        {
+          "timestampMillis": 1760487503934
+        },
+        {
+          "timestampMillis": 1760487552145
+        },
+        {
+          "timestampMillis": 1760487668640
+        },
+        {
+          "timestampMillis": 1760487673335
+        },
+        {
+          "timestampMillis": 1760487678360
+        },
+        {
+          "timestampMillis": 1760487686392
+        },
+        {
+          "timestampMillis": 1760487799738
+        },
+        {
+          "timestampMillis": 1760487862275
+        },
+        {
+          "timestampMillis": 1760487871174
+        },
+        {
+          "timestampMillis": 1760488037305
+        },
+        {
+          "timestampMillis": 1760488132690
+        },
+        {
+          "timestampMillis": 1760488159690
+        },
+        {
+          "timestampMillis": 1760488165345
+        },
+        {
+          "timestampMillis": 1760488184679
+        },
+        {
+          "timestampMillis": 1760489753402
+        },
+        {
+          "timestampMillis": 1760489758819
+        },
+        {
+          "timestampMillis": 1760545452093
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 8 — Linear Transformations II.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 27,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486187529
+        },
+        {
+          "timestampMillis": 1760487324916
+        },
+        {
+          "timestampMillis": 1760487400422
+        },
+        {
+          "timestampMillis": 1760487538231
+        },
+        {
+          "timestampMillis": 1760487555471
+        },
+        {
+          "timestampMillis": 1760487674218
+        },
+        {
+          "timestampMillis": 1760487679619
+        },
+        {
+          "timestampMillis": 1760487690025
+        },
+        {
+          "timestampMillis": 1760487692320
+        },
+        {
+          "timestampMillis": 1760487711620
+        },
+        {
+          "timestampMillis": 1760487800543
+        },
+        {
+          "timestampMillis": 1760487805756
+        },
+        {
+          "timestampMillis": 1760487853216
+        },
+        {
+          "timestampMillis": 1760487863711
+        },
+        {
+          "timestampMillis": 1760487879070
+        },
+        {
+          "timestampMillis": 1760487882150
+        },
+        {
+          "timestampMillis": 1760487898316
+        },
+        {
+          "timestampMillis": 1760488039688
+        },
+        {
+          "timestampMillis": 1760488135558
+        },
+        {
+          "timestampMillis": 1760488161130
+        },
+        {
+          "timestampMillis": 1760488168430
+        },
+        {
+          "timestampMillis": 1760488185629
+        },
+        {
+          "timestampMillis": 1760489754067
+        },
+        {
+          "timestampMillis": 1760489756449
+        },
+        {
+          "timestampMillis": 1760489759856
+        },
+        {
+          "timestampMillis": 1760541800141
+        },
+        {
+          "timestampMillis": 1760545450609
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 9 — Determinants and the Inverse Matrix.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 26,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486193533
+        },
+        {
+          "timestampMillis": 1760487691020
+        },
+        {
+          "timestampMillis": 1760487697374
+        },
+        {
+          "timestampMillis": 1760487803158
+        },
+        {
+          "timestampMillis": 1760487806220
+        },
+        {
+          "timestampMillis": 1760487812024
+        },
+        {
+          "timestampMillis": 1760487822137
+        },
+        {
+          "timestampMillis": 1760487849935
+        },
+        {
+          "timestampMillis": 1760487854555
+        },
+        {
+          "timestampMillis": 1760487866068
+        },
+        {
+          "timestampMillis": 1760487881368
+        },
+        {
+          "timestampMillis": 1760487885906
+        },
+        {
+          "timestampMillis": 1760487902957
+        },
+        {
+          "timestampMillis": 1760487939621
+        },
+        {
+          "timestampMillis": 1760488042239
+        },
+        {
+          "timestampMillis": 1760488065610
+        },
+        {
+          "timestampMillis": 1760488082804
+        },
+        {
+          "timestampMillis": 1760488137922
+        },
+        {
+          "timestampMillis": 1760488172558
+        },
+        {
+          "timestampMillis": 1760488174904
+        },
+        {
+          "timestampMillis": 1760488186271
+        },
+        {
+          "timestampMillis": 1760489754933
+        },
+        {
+          "timestampMillis": 1760489761436
+        },
+        {
+          "timestampMillis": 1760545443132
+        },
+        {
+          "timestampMillis": 1760545465619
+        },
+        {
+          "timestampMillis": 1760552204228
+        }
+      ]
+    },
+    {
+      "path": "Csci/2033 - Computational Linear Algebra/Lecture 10 — Eigenvalues and Eigenvectors.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 19,
+      "openLogs": [
+        {
+          "timestampMillis": 1760486197859
+        },
+        {
+          "timestampMillis": 1760487810709
+        },
+        {
+          "timestampMillis": 1760487816678
+        },
+        {
+          "timestampMillis": 1760487844674
+        },
+        {
+          "timestampMillis": 1760487911419
+        },
+        {
+          "timestampMillis": 1760488015539
+        },
+        {
+          "timestampMillis": 1760488046676
+        },
+        {
+          "timestampMillis": 1760488056549
+        },
+        {
+          "timestampMillis": 1760488079664
+        },
+        {
+          "timestampMillis": 1760488096087
+        },
+        {
+          "timestampMillis": 1760488141621
+        },
+        {
+          "timestampMillis": 1760488173719
+        },
+        {
+          "timestampMillis": 1760488186861
+        },
+        {
+          "timestampMillis": 1760489762522
+        },
+        {
+          "timestampMillis": 1760545492820
+        },
+        {
+          "timestampMillis": 1760545493262
+        },
+        {
+          "timestampMillis": 1760545496629
+        },
+        {
+          "timestampMillis": 1760545537363
+        },
+        {
+          "timestampMillis": 1760545735282
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/Lecture 9 — Representations.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 75,
+      "openLogs": [
+        {
+          "timestampMillis": 1760540942184
+        },
+        {
+          "timestampMillis": 1760541041878
+        },
+        {
+          "timestampMillis": 1760541553822
+        },
+        {
+          "timestampMillis": 1760541797989
+        },
+        {
+          "timestampMillis": 1760545118889
+        },
+        {
+          "timestampMillis": 1760545130388
+        },
+        {
+          "timestampMillis": 1760545543465
+        },
+        {
+          "timestampMillis": 1760545737579
+        },
+        {
+          "timestampMillis": 1760546452769
+        },
+        {
+          "timestampMillis": 1760546479272
+        },
+        {
+          "timestampMillis": 1760549294140
+        },
+        {
+          "timestampMillis": 1760549308864
+        },
+        {
+          "timestampMillis": 1760549338968
+        },
+        {
+          "timestampMillis": 1760549469280
+        },
+        {
+          "timestampMillis": 1760549708986
+        },
+        {
+          "timestampMillis": 1760549743562
+        },
+        {
+          "timestampMillis": 1760549762567
+        },
+        {
+          "timestampMillis": 1760549766788
+        },
+        {
+          "timestampMillis": 1760549790620
+        },
+        {
+          "timestampMillis": 1760550443633
+        },
+        {
+          "timestampMillis": 1760550454218
+        },
+        {
+          "timestampMillis": 1760550466121
+        },
+        {
+          "timestampMillis": 1760550544561
+        },
+        {
+          "timestampMillis": 1760550640191
+        },
+        {
+          "timestampMillis": 1760550644441
+        },
+        {
+          "timestampMillis": 1760550697560
+        },
+        {
+          "timestampMillis": 1760550736861
+        },
+        {
+          "timestampMillis": 1760550811270
+        },
+        {
+          "timestampMillis": 1760550846927
+        },
+        {
+          "timestampMillis": 1760550860499
+        },
+        {
+          "timestampMillis": 1760550958972
+        },
+        {
+          "timestampMillis": 1760551765626
+        },
+        {
+          "timestampMillis": 1760552240649
+        },
+        {
+          "timestampMillis": 1760552290385
+        },
+        {
+          "timestampMillis": 1760552356888
+        },
+        {
+          "timestampMillis": 1760552372824
+        },
+        {
+          "timestampMillis": 1760552739535
+        },
+        {
+          "timestampMillis": 1760552841110
+        },
+        {
+          "timestampMillis": 1760554248111
+        },
+        {
+          "timestampMillis": 1760555251497
+        },
+        {
+          "timestampMillis": 1760555310567
+        },
+        {
+          "timestampMillis": 1760555423674
+        },
+        {
+          "timestampMillis": 1760556885924
+        },
+        {
+          "timestampMillis": 1760557132258
+        },
+        {
+          "timestampMillis": 1760557208405
+        },
+        {
+          "timestampMillis": 1760557255209
+        },
+        {
+          "timestampMillis": 1760557529132
+        },
+        {
+          "timestampMillis": 1760557581921
+        },
+        {
+          "timestampMillis": 1760557624373
+        },
+        {
+          "timestampMillis": 1760557768506
+        },
+        {
+          "timestampMillis": 1760557782272
+        },
+        {
+          "timestampMillis": 1760557949879
+        },
+        {
+          "timestampMillis": 1760557997053
+        },
+        {
+          "timestampMillis": 1760558002440
+        },
+        {
+          "timestampMillis": 1760558070061
+        },
+        {
+          "timestampMillis": 1760558126017
+        },
+        {
+          "timestampMillis": 1760558173537
+        },
+        {
+          "timestampMillis": 1760558269500
+        },
+        {
+          "timestampMillis": 1760558351575
+        },
+        {
+          "timestampMillis": 1760558414041
+        },
+        {
+          "timestampMillis": 1760558619070
+        },
+        {
+          "timestampMillis": 1760558746312
+        },
+        {
+          "timestampMillis": 1760558778668
+        },
+        {
+          "timestampMillis": 1760558912998
+        },
+        {
+          "timestampMillis": 1760559073414
+        },
+        {
+          "timestampMillis": 1760559155207
+        },
+        {
+          "timestampMillis": 1760559244436
+        },
+        {
+          "timestampMillis": 1760559531200
+        },
+        {
+          "timestampMillis": 1760559780535
+        },
+        {
+          "timestampMillis": 1760559788779
+        },
+        {
+          "timestampMillis": 1760563632513
+        },
+        {
+          "timestampMillis": 1760564743494
+        },
+        {
+          "timestampMillis": 1760564807280
+        },
+        {
+          "timestampMillis": 1760568641051
+        },
+        {
+          "timestampMillis": 1760568676815
+        }
+      ]
+    },
+    {
+      "path": "Csci/3921W - Issues in Computing/lecture11.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760542434628
+        },
+        {
+          "timestampMillis": 1760542476374
+        },
+        {
+          "timestampMillis": 1760542491161
+        },
+        {
+          "timestampMillis": 1760542582093
+        },
+        {
+          "timestampMillis": 1760542611806
+        },
+        {
+          "timestampMillis": 1760543615922
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/position_ex.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 26,
+      "openLogs": [
+        {
+          "timestampMillis": 1760546822957
+        },
+        {
+          "timestampMillis": 1760547450320
+        },
+        {
+          "timestampMillis": 1760547675971
+        },
+        {
+          "timestampMillis": 1760549322798
+        },
+        {
+          "timestampMillis": 1760550399224
+        },
+        {
+          "timestampMillis": 1760550422984
+        },
+        {
+          "timestampMillis": 1760550433685
+        },
+        {
+          "timestampMillis": 1760550441085
+        },
+        {
+          "timestampMillis": 1760550491208
+        },
+        {
+          "timestampMillis": 1760550516775
+        },
+        {
+          "timestampMillis": 1760550588031
+        },
+        {
+          "timestampMillis": 1760550644578
+        },
+        {
+          "timestampMillis": 1760550718997
+        },
+        {
+          "timestampMillis": 1760550723110
+        },
+        {
+          "timestampMillis": 1760550734348
+        },
+        {
+          "timestampMillis": 1760550750238
+        },
+        {
+          "timestampMillis": 1760550945200
+        },
+        {
+          "timestampMillis": 1760557520784
+        },
+        {
+          "timestampMillis": 1760557687808
+        },
+        {
+          "timestampMillis": 1760557707496
+        },
+        {
+          "timestampMillis": 1760557713276
+        },
+        {
+          "timestampMillis": 1760558015080
+        },
+        {
+          "timestampMillis": 1760558169077
+        },
+        {
+          "timestampMillis": 1760558276276
+        },
+        {
+          "timestampMillis": 1760558568633
+        },
+        {
+          "timestampMillis": 1760558700752
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/GVD_ex.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1760550413230
+        },
+        {
+          "timestampMillis": 1760550413994
+        },
+        {
+          "timestampMillis": 1760550423710
+        },
+        {
+          "timestampMillis": 1760550431750
+        },
+        {
+          "timestampMillis": 1760550439968
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/data_passing.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1760550416755
+        },
+        {
+          "timestampMillis": 1760550438432
+        },
+        {
+          "timestampMillis": 1760550452422
+        }
+      ]
+    },
+    {
+      "path": "Csci/4551 - Intro to Robotics/imgs/Voro-diagram.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1760550418213
+        },
+        {
+          "timestampMillis": 1760550418812
+        },
+        {
+          "timestampMillis": 1760550437618
+        }
+      ]
+    },
+    {
+      "path": "CLAUDE.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1760554307057
+        },
+        {
+          "timestampMillis": 1760554370659
+        },
+        {
+          "timestampMillis": 1760555250142
+        },
+        {
+          "timestampMillis": 1760555584579
+        },
+        {
+          "timestampMillis": 1760557847256
+        },
+        {
+          "timestampMillis": 1760557896518
+        },
+        {
+          "timestampMillis": 1760558279790
+        },
+        {
+          "timestampMillis": 1760558774755
+        },
+        {
+          "timestampMillis": 1760558799244
+        },
+        {
+          "timestampMillis": 1760559027291
+        },
+        {
+          "timestampMillis": 1760559152378
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Csci4551-Lec9-Orientation.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1760558570051
+        },
+        {
+          "timestampMillis": 1760558584477
+        },
+        {
+          "timestampMillis": 1760558590988
+        },
+        {
+          "timestampMillis": 1760558699115
+        },
+        {
+          "timestampMillis": 1760558701860
+        },
+        {
+          "timestampMillis": 1760559246636
+        },
+        {
+          "timestampMillis": 1760568660281
+        },
+        {
+          "timestampMillis": 1760568662983
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Csci2033-Lec1-GaussianElimination.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1760568655131
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Csci2033-Lec1-VectorOperations.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1760568659220
+        }
+      ]
+    }
+  ]
+}
