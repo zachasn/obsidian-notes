@@ -642,7 +642,7 @@
     {
       "path": "Csci/4551 - Intro to Robotics/Lecture 5 — Motion Planning.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 103,
+      "totalTimesOpened": 119,
       "openLogs": [
         {
           "timestampMillis": 1758938333527
@@ -952,6 +952,54 @@
         },
         {
           "timestampMillis": 1760559207503
+        },
+        {
+          "timestampMillis": 1760568964272
+        },
+        {
+          "timestampMillis": 1760568993494
+        },
+        {
+          "timestampMillis": 1760569024087
+        },
+        {
+          "timestampMillis": 1760569137707
+        },
+        {
+          "timestampMillis": 1760570235303
+        },
+        {
+          "timestampMillis": 1760570258310
+        },
+        {
+          "timestampMillis": 1760570333811
+        },
+        {
+          "timestampMillis": 1760571592000
+        },
+        {
+          "timestampMillis": 1760571759123
+        },
+        {
+          "timestampMillis": 1760572085701
+        },
+        {
+          "timestampMillis": 1760572126867
+        },
+        {
+          "timestampMillis": 1760588191144
+        },
+        {
+          "timestampMillis": 1760588195443
+        },
+        {
+          "timestampMillis": 1760588719412
+        },
+        {
+          "timestampMillis": 1760588956100
+        },
+        {
+          "timestampMillis": 1760589110938
         }
       ]
     },
@@ -1200,8 +1248,8 @@
     },
     {
       "path": "Csci/3923 Ethics in Computing/Social Contract.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1758989466340
@@ -1214,13 +1262,19 @@
         },
         {
           "timestampMillis": 1759082919541
+        },
+        {
+          "timestampMillis": 1760628615018
+        },
+        {
+          "timestampMillis": 1760631159643
         }
       ]
     },
     {
       "path": "Csci/3923 Ethics in Computing/Utilitarianism.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1758989498571
@@ -1236,51 +1290,19 @@
         },
         {
           "timestampMillis": 1759872117640
-        }
-      ]
-    },
-    {
-      "path": "Csci/3923 Ethics in Computing/Week 3 Reading Notes.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
-      "openLogs": [
-        {
-          "timestampMillis": 1758989533552
         },
         {
-          "timestampMillis": 1759246766397
+          "timestampMillis": 1760628604550
         },
         {
-          "timestampMillis": 1759247472839
-        },
-        {
-          "timestampMillis": 1759250908974
-        },
-        {
-          "timestampMillis": 1759873220791
-        },
-        {
-          "timestampMillis": 1759873286214
-        }
-      ]
-    },
-    {
-      "path": "Csci/3923 Ethics in Computing/Week 2 Reading Notes.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1758989559921
-        },
-        {
-          "timestampMillis": 1759082154949
+          "timestampMillis": 1760631162039
         }
       ]
     },
     {
       "path": "Csci/3923 Ethics in Computing/Virtue-based.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1759011732216
@@ -1305,6 +1327,12 @@
         },
         {
           "timestampMillis": 1759861720953
+        },
+        {
+          "timestampMillis": 1760628603811
+        },
+        {
+          "timestampMillis": 1760631163394
         }
       ]
     },
@@ -1357,8 +1385,8 @@
     },
     {
       "path": "Csci/3923 Ethics in Computing/Supporting Analysis.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 45,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 48,
       "openLogs": [
         {
           "timestampMillis": 1759082184519
@@ -1494,6 +1522,15 @@
         },
         {
           "timestampMillis": 1759259150109
+        },
+        {
+          "timestampMillis": 1760628606214
+        },
+        {
+          "timestampMillis": 1760631160345
+        },
+        {
+          "timestampMillis": 1760631166159
         }
       ]
     },
@@ -1623,19 +1660,9 @@
       ]
     },
     {
-      "path": "Csci/3923 Ethics in Computing/In Class Writing 2.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1759246762181
-        }
-      ]
-    },
-    {
-      "path": "Csci/3923 Ethics in Computing/Post Analysis Wirting.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 14,
+      "path": "Csci/3923 Ethics in Computing/Paper 1.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1759250378340
@@ -1678,6 +1705,24 @@
         },
         {
           "timestampMillis": 1759256488415
+        },
+        {
+          "timestampMillis": 1760628659329
+        },
+        {
+          "timestampMillis": 1760628676032
+        },
+        {
+          "timestampMillis": 1760628696206
+        },
+        {
+          "timestampMillis": 1760631193517
+        },
+        {
+          "timestampMillis": 1760633148977
+        },
+        {
+          "timestampMillis": 1760633493158
         }
       ]
     },
@@ -2340,7 +2385,7 @@
     {
       "path": "Csci/4551 - Intro to Robotics/Lecture 6 — Motion Planning II.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 29,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
           "timestampMillis": 1759591371380
@@ -2428,6 +2473,9 @@
         },
         {
           "timestampMillis": 1760559242298
+        },
+        {
+          "timestampMillis": 1760588187077
         }
       ]
     },
@@ -2636,55 +2684,9 @@
       ]
     },
     {
-      "path": "Csci/3923 Ethics in Computing/Quiz 2—Notes.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 13,
-      "openLogs": [
-        {
-          "timestampMillis": 1759855062554
-        },
-        {
-          "timestampMillis": 1759855076547
-        },
-        {
-          "timestampMillis": 1759856194004
-        },
-        {
-          "timestampMillis": 1759857024471
-        },
-        {
-          "timestampMillis": 1759871101901
-        },
-        {
-          "timestampMillis": 1759871380509
-        },
-        {
-          "timestampMillis": 1759871399739
-        },
-        {
-          "timestampMillis": 1759871410344
-        },
-        {
-          "timestampMillis": 1759872878650
-        },
-        {
-          "timestampMillis": 1759872917571
-        },
-        {
-          "timestampMillis": 1759872924403
-        },
-        {
-          "timestampMillis": 1759872929590
-        },
-        {
-          "timestampMillis": 1759873219424
-        }
-      ]
-    },
-    {
       "path": "Csci/3923 Ethics in Computing/Quiz 1—Notes.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1759855069965
@@ -2694,6 +2696,9 @@
         },
         {
           "timestampMillis": 1759855887433
+        },
+        {
+          "timestampMillis": 1760628628335
         }
       ]
     },
@@ -2733,8 +2738,8 @@
     },
     {
       "path": "Csci/3923 Ethics in Computing/AI & Learning.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1759859847530
@@ -2753,13 +2758,19 @@
         },
         {
           "timestampMillis": 1759871402315
+        },
+        {
+          "timestampMillis": 1760632940857
+        },
+        {
+          "timestampMillis": 1760633146557
         }
       ]
     },
     {
       "path": "Csci/3923 Ethics in Computing/Information integrity.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1759859895814
@@ -2796,6 +2807,9 @@
         },
         {
           "timestampMillis": 1759938986167
+        },
+        {
+          "timestampMillis": 1760633436202
         }
       ]
     },
@@ -2881,8 +2895,8 @@
     },
     {
       "path": "Csci/3923 Ethics in Computing/Technomoral ethics.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1759860022213
@@ -2910,72 +2924,19 @@
         },
         {
           "timestampMillis": 1759872117158
-        }
-      ]
-    },
-    {
-      "path": "Csci/3923 Ethics in Computing/Sample Quiz 2.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1759863307273
         },
         {
-          "timestampMillis": 1759864964334
+          "timestampMillis": 1760628605254
+        },
+        {
+          "timestampMillis": 1760631160951
         }
       ]
     },
     {
-      "path": "Csci/3923 Ethics in Computing/Week 4 reading Notes.md",
+      "path": "Csci/3923 Ethics in Computing/Quiz 2—Notes.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 13,
-      "openLogs": [
-        {
-          "timestampMillis": 1759864023384
-        },
-        {
-          "timestampMillis": 1760458986404
-        },
-        {
-          "timestampMillis": 1760458987054
-        },
-        {
-          "timestampMillis": 1760458988586
-        },
-        {
-          "timestampMillis": 1760459005507
-        },
-        {
-          "timestampMillis": 1760459034778
-        },
-        {
-          "timestampMillis": 1760459039811
-        },
-        {
-          "timestampMillis": 1760459054562
-        },
-        {
-          "timestampMillis": 1760459094712
-        },
-        {
-          "timestampMillis": 1760459224264
-        },
-        {
-          "timestampMillis": 1760459249948
-        },
-        {
-          "timestampMillis": 1760459286216
-        },
-        {
-          "timestampMillis": 1760459296386
-        }
-      ]
-    },
-    {
-      "path": "Csci/3923 Ethics in Computing/Quiz 2 Cheat Sheet.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1759873437990
@@ -2991,19 +2952,18 @@
         },
         {
           "timestampMillis": 1759876324479
-        }
-      ]
-    },
-    {
-      "path": "Csci/3923 Ethics in Computing/Week6 in class.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1759877863457
         },
         {
-          "timestampMillis": 1759878363368
+          "timestampMillis": 1760628619546
+        },
+        {
+          "timestampMillis": 1760628626132
+        },
+        {
+          "timestampMillis": 1760628636261
+        },
+        {
+          "timestampMillis": 1760628652585
         }
       ]
     },
@@ -3686,7 +3646,7 @@
     {
       "path": "Csci/4551 - Intro to Robotics/Lecture 7 — State Estimation.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 69,
+      "totalTimesOpened": 70,
       "openLogs": [
         {
           "timestampMillis": 1759943908517
@@ -3894,6 +3854,9 @@
         },
         {
           "timestampMillis": 1760559243621
+        },
+        {
+          "timestampMillis": 1760568962563
         }
       ]
     },
@@ -3966,8 +3929,8 @@
     },
     {
       "path": "Literature Notes/The Ego and its Own - Max Stirner.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 30,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
           "timestampMillis": 1759953720470
@@ -4058,6 +4021,9 @@
         },
         {
           "timestampMillis": 1760473254630
+        },
+        {
+          "timestampMillis": 1760632481975
         }
       ]
     },
@@ -4627,49 +4593,6 @@
         },
         {
           "timestampMillis": 1760541807624
-        }
-      ]
-    },
-    {
-      "path": "Csci/3923 Ethics in Computing/Week 7 Reading notes.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
-      "openLogs": [
-        {
-          "timestampMillis": 1760458977565
-        },
-        {
-          "timestampMillis": 1760458995441
-        },
-        {
-          "timestampMillis": 1760459008073
-        },
-        {
-          "timestampMillis": 1760459038257
-        },
-        {
-          "timestampMillis": 1760459043111
-        },
-        {
-          "timestampMillis": 1760459092827
-        },
-        {
-          "timestampMillis": 1760459096307
-        },
-        {
-          "timestampMillis": 1760459243960
-        },
-        {
-          "timestampMillis": 1760459252344
-        },
-        {
-          "timestampMillis": 1760459290229
-        },
-        {
-          "timestampMillis": 1760459310599
-        },
-        {
-          "timestampMillis": 1760459549497
         }
       ]
     },
@@ -5708,8 +5631,8 @@
     },
     {
       "path": "Csci/4551 - Intro to Robotics/Lecture 9 — Representations.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 75,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 83,
       "openLogs": [
         {
           "timestampMillis": 1760540942184
@@ -5935,6 +5858,30 @@
         },
         {
           "timestampMillis": 1760568676815
+        },
+        {
+          "timestampMillis": 1760568928004
+        },
+        {
+          "timestampMillis": 1760570328784
+        },
+        {
+          "timestampMillis": 1760571589448
+        },
+        {
+          "timestampMillis": 1760571757613
+        },
+        {
+          "timestampMillis": 1760572084949
+        },
+        {
+          "timestampMillis": 1760588351557
+        },
+        {
+          "timestampMillis": 1760588955014
+        },
+        {
+          "timestampMillis": 1760628466014
         }
       ]
     },
@@ -6145,7 +6092,7 @@
     {
       "path": "Excalidraw/Csci4551-Lec9-Orientation.excalidraw.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1760558570051
@@ -6170,6 +6117,15 @@
         },
         {
           "timestampMillis": 1760568662983
+        },
+        {
+          "timestampMillis": 1760568957556
+        },
+        {
+          "timestampMillis": 1760589104307
+        },
+        {
+          "timestampMillis": 1760589108741
         }
       ]
     },
@@ -6190,6 +6146,159 @@
       "openLogs": [
         {
           "timestampMillis": 1760568659220
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Csci4551-Lec5Voronoi.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1760569638084
+        },
+        {
+          "timestampMillis": 1760589089021
+        },
+        {
+          "timestampMillis": 1760589106392
+        },
+        {
+          "timestampMillis": 1760589109406
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Csci4551-lec5-SD.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1760571104747
+        },
+        {
+          "timestampMillis": 1760571601693
+        },
+        {
+          "timestampMillis": 1760571767611
+        },
+        {
+          "timestampMillis": 1760588952956
+        },
+        {
+          "timestampMillis": 1760589083184
+        },
+        {
+          "timestampMillis": 1760589110389
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Csci4551-Lec5-Voronoi.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1760589084558
+        },
+        {
+          "timestampMillis": 1760589109906
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Reflection.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1760628689274
+        },
+        {
+          "timestampMillis": 1760628743771
+        },
+        {
+          "timestampMillis": 1760631194059
+        },
+        {
+          "timestampMillis": 1760631198256
+        },
+        {
+          "timestampMillis": 1760631982376
+        },
+        {
+          "timestampMillis": 1760631986359
+        },
+        {
+          "timestampMillis": 1760632485302
+        },
+        {
+          "timestampMillis": 1760632500691
+        },
+        {
+          "timestampMillis": 1760632970074
+        },
+        {
+          "timestampMillis": 1760633163359
+        },
+        {
+          "timestampMillis": 1760633442633
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/Weekly Reading Notes.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1760629649237
+        },
+        {
+          "timestampMillis": 1760629682158
+        },
+        {
+          "timestampMillis": 1760630655972
+        },
+        {
+          "timestampMillis": 1760630679535
+        },
+        {
+          "timestampMillis": 1760630724288
+        },
+        {
+          "timestampMillis": 1760630759012
+        },
+        {
+          "timestampMillis": 1760630767592
+        },
+        {
+          "timestampMillis": 1760630773526
+        },
+        {
+          "timestampMillis": 1760631163999
+        },
+        {
+          "timestampMillis": 1760631169146
+        }
+      ]
+    },
+    {
+      "path": "Csci/3923 Ethics in Computing/In Class writings.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1760630780764
+        },
+        {
+          "timestampMillis": 1760631158642
+        },
+        {
+          "timestampMillis": 1760631173440
+        },
+        {
+          "timestampMillis": 1760631176608
         }
       ]
     }
